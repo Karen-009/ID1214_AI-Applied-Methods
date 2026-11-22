@@ -142,7 +142,7 @@ RULES = [
     {
         # Design choice by the team, not a rule stated directly in the
         # sources: it follows from "match the intensity" and keeps
-        # dessert wines away from savoury main courses.
+        # dessert wines away from savoury main courses. 
         # The drink may be up to 0.35 sweeter than the dish; beyond
         # that it is penalised in proportion to the excess.
         "id": "SWEETNESS_IN_PROPORTION",

@@ -7,10 +7,14 @@ Output: either a clarifying question (low confidence) or the top-N
         drinks, each with the rules that support it.
 """
 
+import os
+
 from .drinks import DRINKS
+from .jev import Jev, load_env
 from .rules import RULES
 
-CONFIDENCE_THRESHOLD = 0.6
+load_env()
+CONFIDENCE_THRESHOLD = float(os.environ.get("JEV_CONFIDENCE_THRESHOLD", "0.6"))
 TASTES = ("fat", "acidity", "sweetness", "saltiness", "spiciness", "bitterness")
 
 
@@ -96,6 +100,15 @@ def recommend(dish, top_n=3, exclude_types=()):
         "fired_rules": [r["id"] for r, _ in fired],
         "recommendations": ranked[:top_n],
     }
+
+
+def recommend_for_description(description, jev=None, **kwargs):
+    """Full pipeline: dish text -> Jev scores -> rules -> top drinks."""
+    jev = jev or Jev()
+    scores = jev.score(description)
+    result = recommend(scores, **kwargs)
+    result["jev_scores"] = scores
+    return result
 
 
 def explain(result):

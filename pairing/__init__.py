@@ -1,3 +1,4 @@
-from .engine import recommend, explain, fire_rules
+from .engine import recommend, recommend_for_description, explain, fire_rules
+from .jev import Jev
 
-__all__ = ["recommend", "explain", "fire_rules"]
+__all__ = ["recommend", "recommend_for_description", "explain", "fire_rules", "Jev"]
