@@ -1,7 +1,7 @@
 """Run the pairing rules on a few hand-scored example dishes.
 
-The taste scores below are stand-ins for what Jev will return. Replace
-them with real Jev output once the integration is done.
+The scores are set by hand, so the demo runs without a Jev API key.
+Use ask.py to score a dish with Jev.
 """
 
 from pairing import recommend, explain
@@ -9,13 +9,16 @@ from pairing import recommend, explain
 DISHES = {
     "Pork belly with chili glaze": {
         "fat": 0.85, "acidity": 0.20, "sweetness": 0.45, "saltiness": 0.55,
-        "spiciness": 0.75, "bitterness": 0.10, "confidence": 0.90},
+        "spiciness": 0.75, "bitterness": 0.10, "confidence": 0.90,
+        "protein": "pork"},
     "Cured salmon (gravlax) with mustard sauce": {
         "fat": 0.60, "acidity": 0.35, "sweetness": 0.40, "saltiness": 0.70,
-        "spiciness": 0.10, "bitterness": 0.10, "confidence": 0.85},
+        "spiciness": 0.10, "bitterness": 0.10, "confidence": 0.85,
+        "protein": "fish"},
     "Ribeye steak": {
         "fat": 0.80, "acidity": 0.05, "sweetness": 0.05, "saltiness": 0.50,
-        "spiciness": 0.10, "bitterness": 0.20, "confidence": 0.90},
+        "spiciness": 0.10, "bitterness": 0.20, "confidence": 0.90,
+        "protein": "red meat"},
     "Apple pie with vanilla sauce": {
         "fat": 0.45, "acidity": 0.35, "sweetness": 0.90, "saltiness": 0.10,
         "spiciness": 0.05, "bitterness": 0.05, "confidence": 0.90},

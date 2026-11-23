@@ -1,0 +1,4678 @@
+[
+ {
+  "dish": "Beef bourguignon slow-cooked in red wine with mushrooms and bacon",
+  "expected": "red meat",
+  "protein": "red meat",
+  "scores": {
+   "fat": 0.7125,
+   "acidity": 0.3125,
+   "sweetness": 0.0975,
+   "saltiness": 0.535,
+   "spiciness": 0.0025,
+   "bitterness": 0.1475,
+   "confidence": 0.7113333333333333,
+   "protein": "red meat"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "FAT_SOFTENS_TANNIN",
+   "RED_MEAT_STRUCTURE",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "RED_MEAT_CLASSIC_REDS",
+   "RED_MEAT_ROASTED_MALT"
+  ],
+  "top3": [
+   {
+    "drink": "Zengarello Barolo (750 ml, 209 kr)",
+    "type": "red wine",
+    "score": 2.191,
+    "abv": 14.0
+   },
+   {
+    "drink": "West Sixth Snake Eyes Imperial Stout (355 ml, 29.9 kr)",
+    "type": "beer",
+    "score": 1.691,
+    "abv": 9.6
+   },
+   {
+    "drink": "Dark Horse Buttery Chardonnay (750 ml, 100 kr)",
+    "type": "white wine",
+    "score": 0.615,
+    "abv": 14.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Grilled ribeye steak with garlic butter and fries",
+  "expected": "red meat",
+  "protein": "red meat",
+  "scores": {
+   "fat": 0.92,
+   "acidity": 0.015,
+   "sweetness": 0.02,
+   "saltiness": 0.6075,
+   "spiciness": 0.0025,
+   "bitterness": 0.0625,
+   "confidence": 0.7351500000000001,
+   "protein": "red meat"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "FAT_SOFTENS_TANNIN",
+   "RED_MEAT_STRUCTURE",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "RED_MEAT_CLASSIC_REDS",
+   "RED_MEAT_ROASTED_MALT"
+  ],
+  "top3": [
+   {
+    "drink": "Capitel de'Roari Amarone (750 ml, 225 kr)",
+    "type": "red wine",
+    "score": 2.561,
+    "abv": 15.0
+   },
+   {
+    "drink": "Double Bastard Ale Stone Brewing (650 ml, 99.1 kr)",
+    "type": "beer",
+    "score": 1.707,
+    "abv": 10.5
+   },
+   {
+    "drink": "J.H. Goncalves Sercial 5 Years (375 ml, 130 kr)",
+    "type": "fortified wine",
+    "score": 0.558,
+    "abv": 19.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.6
+ },
+ {
+  "dish": "Swedish meatballs with cream sauce, lingonberries and mashed potatoes",
+  "expected": "red meat",
+  "protein": "red meat",
+  "scores": {
+   "fat": 0.7975,
+   "acidity": 0.285,
+   "sweetness": 0.2725,
+   "saltiness": 0.515,
+   "spiciness": 0.0025,
+   "bitterness": 0.065,
+   "confidence": 0.7995,
+   "protein": "red meat"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "FAT_SOFTENS_TANNIN",
+   "RED_MEAT_STRUCTURE",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "RED_MEAT_CLASSIC_REDS",
+   "RED_MEAT_ROASTED_MALT"
+  ],
+  "top3": [
+   {
+    "drink": "Dehesa La Granja (750 ml, 139 kr)",
+    "type": "red wine",
+    "score": 2.369,
+    "abv": 14.5
+   },
+   {
+    "drink": "West Sixth Snake Eyes Imperial Stout (355 ml, 29.9 kr)",
+    "type": "beer",
+    "score": 1.683,
+    "abv": 9.6
+   },
+   {
+    "drink": "Colombo Fine Medium Sweet 5 years (375 ml, 119 kr)",
+    "type": "fortified wine",
+    "score": 0.911,
+    "abv": 19.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.6
+ },
+ {
+  "dish": "Roast leg of lamb with rosemary and garlic",
+  "expected": "red meat",
+  "protein": "red meat",
+  "scores": {
+   "fat": 0.62,
+   "acidity": 0.0175,
+   "sweetness": 0.005,
+   "saltiness": 0.5,
+   "spiciness": 0.005,
+   "bitterness": 0.1125,
+   "confidence": 0.7125999999999999,
+   "protein": "red meat"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "FAT_SOFTENS_TANNIN",
+   "RED_MEAT_STRUCTURE",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "RED_MEAT_CLASSIC_REDS",
+   "RED_MEAT_ROASTED_MALT"
+  ],
+  "top3": [
+   {
+    "drink": "Famiglia Occello La Scoperta Barolo (750 ml, 160 kr)",
+    "type": "red wine",
+    "score": 1.994,
+    "abv": 14.0
+   },
+   {
+    "drink": "West Sixth Snake Eyes Imperial Stout (355 ml, 29.9 kr)",
+    "type": "beer",
+    "score": 1.664,
+    "abv": 9.6
+   },
+   {
+    "drink": "Bourgogne Les Murelles Domaine Roux (750 ml, 199 kr)",
+    "type": "white wine",
+    "score": 0.618,
+    "abv": 13.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.7
+ },
+ {
+  "dish": "Reindeer stew with mushrooms and juniper, served with mashed potatoes",
+  "expected": "red meat",
+  "protein": "red meat",
+  "scores": {
+   "fat": 0.39,
+   "acidity": 0.0475,
+   "sweetness": 0.0575,
+   "saltiness": 0.5,
+   "spiciness": 0.0025,
+   "bitterness": 0.2175,
+   "confidence": 0.6622833333333334,
+   "protein": "red meat"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "RED_MEAT_STRUCTURE",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "RED_MEAT_CLASSIC_REDS",
+   "RED_MEAT_ROASTED_MALT"
+  ],
+  "top3": [
+   {
+    "drink": "Château Pineraie Malbec (750 ml, 119 kr)",
+    "type": "red wine",
+    "score": 1.033,
+    "abv": 13.5
+   },
+   {
+    "drink": "West Sixth Snake Eyes Imperial Stout (355 ml, 29.9 kr)",
+    "type": "beer",
+    "score": 0.85,
+    "abv": 9.6
+   },
+   {
+    "drink": "Dark Horse Buttery Chardonnay (750 ml, 100 kr)",
+    "type": "white wine",
+    "score": 0.197,
+    "abv": 14.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.6
+ },
+ {
+  "dish": "Beef tacos with chipotle salsa and sour cream",
+  "expected": "red meat",
+  "protein": "red meat",
+  "scores": {
+   "fat": 0.64,
+   "acidity": 0.36,
+   "sweetness": 0.0525,
+   "saltiness": 0.5675,
+   "spiciness": 0.485,
+   "bitterness": 0.0825,
+   "confidence": 0.6392666666666666,
+   "protein": "red meat"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "RED_MEAT_CLASSIC_REDS",
+   "RED_MEAT_ROASTED_MALT"
+  ],
+  "top3": [
+   {
+    "drink": "Q Malbec (750 ml, 89 kr)",
+    "type": "red wine",
+    "score": 1.525,
+    "abv": 14.0
+   },
+   {
+    "drink": "West Sixth Snake Eyes Imperial Stout (355 ml, 29.9 kr)",
+    "type": "beer",
+    "score": 1.401,
+    "abv": 9.6
+   },
+   {
+    "drink": "Campillo Blanco (750 ml, 129 kr)",
+    "type": "white wine",
+    "score": 1.195,
+    "abv": 12.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Spicy Sichuan beef with chili oil and peppercorns",
+  "expected": "red meat",
+  "protein": "red meat",
+  "scores": {
+   "fat": 0.7775,
+   "acidity": 0.04,
+   "sweetness": 0.0575,
+   "saltiness": 0.73,
+   "spiciness": 0.91,
+   "bitterness": 0.0575,
+   "confidence": 0.7069333333333333,
+   "protein": "red meat"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SPICE_LOW_ALCOHOL",
+   "SPICE_AVOID_BITTER",
+   "SPICE_SWEET",
+   "FAT_SPICE_BALANCE",
+   "SWEETNESS_IN_PROPORTION",
+   "SPICE_AROMATIC_WHITE"
+  ],
+  "top3": [
+   {
+    "drink": "Rudu Cider En halvtorr smålänning (750 ml, 149 kr)",
+    "type": "cider",
+    "score": 2.442,
+    "abv": 4.0
+   },
+   {
+    "drink": "Kloster Eberbach Riesling Kabinett (750 ml, 139 kr)",
+    "type": "white wine",
+    "score": 2.337,
+    "abv": 7.5
+   },
+   {
+    "drink": "Vault City A Lil Stoopid (440 ml, 52.9 kr)",
+    "type": "beer",
+    "score": 2.25,
+    "abv": 4.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Classic cheeseburger with bacon and pickles",
+  "expected": "red meat",
+  "protein": "red meat",
+  "scores": {
+   "fat": 0.7725,
+   "acidity": 0.3525,
+   "sweetness": 0.0975,
+   "saltiness": 0.7775,
+   "spiciness": 0.0025,
+   "bitterness": 0.135,
+   "confidence": 0.6858500000000001,
+   "protein": "red meat"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "FAT_SOFTENS_TANNIN",
+   "RED_MEAT_STRUCTURE",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "RED_MEAT_CLASSIC_REDS",
+   "RED_MEAT_ROASTED_MALT"
+  ],
+  "top3": [
+   {
+    "drink": "Capitel de'Roari Amarone (750 ml, 225 kr)",
+    "type": "red wine",
+    "score": 2.376,
+    "abv": 15.0
+   },
+   {
+    "drink": "Ability Brewing Double Mash Imperial Stout (250 ml, 42 kr)",
+    "type": "beer",
+    "score": 1.872,
+    "abv": 11.0
+   },
+   {
+    "drink": "J.H. Goncalves Sercial 5 Years (375 ml, 130 kr)",
+    "type": "fortified wine",
+    "score": 0.945,
+    "abv": 19.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.4
+ },
+ {
+  "dish": "Beef carpaccio with parmesan, rocket and lemon",
+  "expected": "red meat",
+  "protein": "red meat",
+  "scores": {
+   "fat": 0.285,
+   "acidity": 0.5375,
+   "sweetness": 0.0125,
+   "saltiness": 0.5725,
+   "spiciness": 0.0125,
+   "bitterness": 0.315,
+   "confidence": 0.6870833333333333,
+   "protein": "red meat"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "RED_MEAT_STRUCTURE",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "ACID_MATCH",
+   "SWEETNESS_IN_PROPORTION",
+   "RED_MEAT_CLASSIC_REDS",
+   "RED_MEAT_ROASTED_MALT",
+   "ACID_DISH_ITALIAN_RED"
+  ],
+  "top3": [
+   {
+    "drink": "Montefalco Rosso Arnaldo-Caprai (750 ml, 179 kr)",
+    "type": "red wine",
+    "score": 1.552,
+    "abv": 15.0
+   },
+   {
+    "drink": "Brekeriet Flemish Reddish (330 ml, 59.2 kr)",
+    "type": "beer",
+    "score": 0.637,
+    "abv": 9.5
+   },
+   {
+    "drink": "Campillo Blanco (750 ml, 129 kr)",
+    "type": "white wine",
+    "score": 0.521,
+    "abv": 12.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Lamb tagine with apricots, honey and cinnamon",
+  "expected": "red meat",
+  "protein": "red meat",
+  "scores": {
+   "fat": 0.585,
+   "acidity": 0.22,
+   "sweetness": 0.54,
+   "saltiness": 0.4675,
+   "spiciness": 0.0975,
+   "bitterness": 0.0575,
+   "confidence": 0.6952,
+   "protein": "red meat"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "RED_MEAT_STRUCTURE",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEET_MATCH",
+   "SWEET_AVOID_BITTER",
+   "SWEETNESS_IN_PROPORTION",
+   "RED_MEAT_CLASSIC_REDS",
+   "RED_MEAT_ROASTED_MALT"
+  ],
+  "top3": [
+   {
+    "drink": "Amundsen Dessert In a Can Salted Caramel Choc Chip Cookie (330 ml, 45.5 kr)",
+    "type": "beer",
+    "score": 0.891,
+    "abv": 10.5
+   },
+   {
+    "drink": "Quinta da Devesa 10 Years Tawny (500 ml, 231 kr)",
+    "type": "fortified wine",
+    "score": 0.763,
+    "abv": 20.0
+   },
+   {
+    "drink": "Korrell Beerenauslese (375 ml, 200 kr)",
+    "type": "dessert wine",
+    "score": 0.724,
+    "abv": 6.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Moose fillet with red wine sauce and root vegetables",
+  "expected": "red meat",
+  "protein": "red meat",
+  "scores": {
+   "fat": 0.2275,
+   "acidity": 0.37,
+   "sweetness": 0.205,
+   "saltiness": 0.5025,
+   "spiciness": 0.0025,
+   "bitterness": 0.19,
+   "confidence": 0.5530666666666667,
+   "protein": "red meat"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "RED_MEAT_STRUCTURE",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "RED_MEAT_CLASSIC_REDS",
+   "RED_MEAT_ROASTED_MALT"
+  ],
+  "top3": [
+   {
+    "drink": "Ribera 1 One (750 ml, 129 kr)",
+    "type": "red wine",
+    "score": 1.033,
+    "abv": 14.5
+   },
+   {
+    "drink": "West Sixth Snake Eyes Imperial Stout (355 ml, 29.9 kr)",
+    "type": "beer",
+    "score": 0.85,
+    "abv": 9.6
+   },
+   {
+    "drink": "Colombo Fine Medium Sweet 5 years (375 ml, 119 kr)",
+    "type": "fortified wine",
+    "score": 0.201,
+    "abv": 19.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Korean bulgogi beef with rice and kimchi",
+  "expected": "red meat",
+  "protein": "red meat",
+  "scores": {
+   "fat": 0.43,
+   "acidity": 0.4675,
+   "sweetness": 0.445,
+   "saltiness": 0.8825,
+   "spiciness": 0.385,
+   "bitterness": 0.1425,
+   "confidence": 0.5418,
+   "protein": "red meat"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "RED_MEAT_STRUCTURE",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "RED_MEAT_CLASSIC_REDS",
+   "RED_MEAT_ROASTED_MALT"
+  ],
+  "top3": [
+   {
+    "drink": "Capitel de'Roari Amarone (750 ml, 225 kr)",
+    "type": "red wine",
+    "score": 1.124,
+    "abv": 15.0
+   },
+   {
+    "drink": "Örebro Brygghus Empirical Stout (330 ml, 69.9 kr)",
+    "type": "beer",
+    "score": 1.08,
+    "abv": 10.5
+   },
+   {
+    "drink": "Quinta da Devesa 10 Years Tawny (500 ml, 231 kr)",
+    "type": "fortified wine",
+    "score": 0.92,
+    "abv": 20.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.4
+ },
+ {
+  "dish": "Spaghetti bolognese with parmesan",
+  "expected": "red meat",
+  "protein": "red meat",
+  "scores": {
+   "fat": 0.605,
+   "acidity": 0.275,
+   "sweetness": 0.14,
+   "saltiness": 0.5725,
+   "spiciness": 0.01,
+   "bitterness": 0.035,
+   "confidence": 0.6902,
+   "protein": "red meat"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "FAT_SOFTENS_TANNIN",
+   "RED_MEAT_STRUCTURE",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "RED_MEAT_CLASSIC_REDS",
+   "RED_MEAT_ROASTED_MALT"
+  ],
+  "top3": [
+   {
+    "drink": "Produttori del Barbaresco Langhe Nebbiolo (750 ml, 199 kr)",
+    "type": "red wine",
+    "score": 1.96,
+    "abv": 14.0
+   },
+   {
+    "drink": "West Sixth Snake Eyes Imperial Stout (355 ml, 29.9 kr)",
+    "type": "beer",
+    "score": 1.63,
+    "abv": 9.6
+   },
+   {
+    "drink": "Campillo Blanco (750 ml, 129 kr)",
+    "type": "white wine",
+    "score": 0.622,
+    "abv": 12.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.4
+ },
+ {
+  "dish": "Beef Wellington with mushroom duxelles",
+  "expected": "red meat",
+  "protein": "red meat",
+  "scores": {
+   "fat": 0.7775,
+   "acidity": 0.0525,
+   "sweetness": 0.025,
+   "saltiness": 0.5325,
+   "spiciness": 0.005,
+   "bitterness": 0.105,
+   "confidence": 0.6351666666666667,
+   "protein": "red meat"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "FAT_SOFTENS_TANNIN",
+   "RED_MEAT_STRUCTURE",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "RED_MEAT_CLASSIC_REDS",
+   "RED_MEAT_ROASTED_MALT"
+  ],
+  "top3": [
+   {
+    "drink": "Zengarello Barolo (750 ml, 209 kr)",
+    "type": "red wine",
+    "score": 2.313,
+    "abv": 14.0
+   },
+   {
+    "drink": "West Sixth Snake Eyes Imperial Stout (355 ml, 29.9 kr)",
+    "type": "beer",
+    "score": 1.687,
+    "abv": 9.6
+   },
+   {
+    "drink": "Dark Horse Buttery Chardonnay (750 ml, 100 kr)",
+    "type": "white wine",
+    "score": 0.572,
+    "abv": 14.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.4
+ },
+ {
+  "dish": "Lamb vindaloo, very hot curry",
+  "expected": "red meat",
+  "protein": "red meat",
+  "scores": {
+   "fat": 0.625,
+   "acidity": 0.83,
+   "sweetness": 0.105,
+   "saltiness": 0.5775,
+   "spiciness": 0.9975,
+   "bitterness": 0.12,
+   "confidence": 0.6255,
+   "protein": "red meat"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "ACID_MATCH",
+   "SPICE_LOW_ALCOHOL",
+   "SPICE_AVOID_BITTER",
+   "SPICE_SWEET",
+   "FAT_SPICE_BALANCE",
+   "SWEETNESS_IN_PROPORTION",
+   "ACID_DISH_ITALIAN_RED",
+   "SPICE_AROMATIC_WHITE"
+  ],
+  "top3": [
+   {
+    "drink": "Rudu Cider En halvtorr smålänning (750 ml, 149 kr)",
+    "type": "cider",
+    "score": 2.779,
+    "abv": 4.0
+   },
+   {
+    "drink": "Kloster Eberbach Riesling Kabinett (750 ml, 139 kr)",
+    "type": "white wine",
+    "score": 2.625,
+    "abv": 7.5
+   },
+   {
+    "drink": "Bottega Lemon Spritz (200 ml, 59 kr)",
+    "type": "sparkling wine",
+    "score": 2.414,
+    "abv": 5.4
+   }
+  ],
+  "flags": [],
+  "seconds": 0.4
+ },
+ {
+  "dish": "Pyttipanna, Swedish hash of beef, potatoes and onion with a fried egg",
+  "expected": "red meat",
+  "protein": "red meat",
+  "scores": {
+   "fat": 0.61,
+   "acidity": 0.025,
+   "sweetness": 0.035,
+   "saltiness": 0.525,
+   "spiciness": 0.005,
+   "bitterness": 0.055,
+   "confidence": 0.6853333333333333,
+   "protein": "red meat"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "FAT_SOFTENS_TANNIN",
+   "RED_MEAT_STRUCTURE",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "RED_MEAT_CLASSIC_REDS",
+   "RED_MEAT_ROASTED_MALT"
+  ],
+  "top3": [
+   {
+    "drink": "Langhe Nebbiolo Leunin (750 ml, 149 kr)",
+    "type": "red wine",
+    "score": 1.968,
+    "abv": 14.0
+   },
+   {
+    "drink": "West Sixth Snake Eyes Imperial Stout (355 ml, 29.9 kr)",
+    "type": "beer",
+    "score": 1.641,
+    "abv": 9.6
+   },
+   {
+    "drink": "Bogle Family Vineyards Chardonnay (750 ml, 179 kr)",
+    "type": "white wine",
+    "score": 0.62,
+    "abv": 14.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.4
+ },
+ {
+  "dish": "Venison with blackberry sauce and celeriac purée",
+  "expected": "red meat",
+  "protein": "red meat",
+  "scores": {
+   "fat": 0.2825,
+   "acidity": 0.3325,
+   "sweetness": 0.335,
+   "saltiness": 0.495,
+   "spiciness": 0.0025,
+   "bitterness": 0.19,
+   "confidence": 0.5845666666666666,
+   "protein": "red meat"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "RED_MEAT_STRUCTURE",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_DISH_LIGHT_DRINK",
+   "RED_MEAT_CLASSIC_REDS",
+   "RED_MEAT_ROASTED_MALT"
+  ],
+  "top3": [
+   {
+    "drink": "DalaBryggeri American Brown Ale (330 ml, 27.9 kr)",
+    "type": "beer",
+    "score": 1.068,
+    "abv": 5.5
+   },
+   {
+    "drink": "CHILL OUT Cabernet Sauvignon (3000 ml, 179 kr)",
+    "type": "red wine",
+    "score": 0.68,
+    "abv": 8.0
+   },
+   {
+    "drink": "Pomologik Come Together (750 ml, 119.3 kr)",
+    "type": "cider",
+    "score": 0.279,
+    "abv": 6.9
+   }
+  ],
+  "flags": [],
+  "seconds": 0.4
+ },
+ {
+  "dish": "Steak tartare with capers, egg yolk and shallots",
+  "expected": "red meat",
+  "protein": "red meat",
+  "scores": {
+   "fat": 0.545,
+   "acidity": 0.38,
+   "sweetness": 0.0125,
+   "saltiness": 0.5975,
+   "spiciness": 0.01,
+   "bitterness": 0.1275,
+   "confidence": 0.6086666666666667,
+   "protein": "red meat"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "RED_MEAT_STRUCTURE",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "RED_MEAT_CLASSIC_REDS",
+   "RED_MEAT_ROASTED_MALT"
+  ],
+  "top3": [
+   {
+    "drink": "Finca el Puig (750 ml, 229 kr)",
+    "type": "red wine",
+    "score": 1.033,
+    "abv": 15.0
+   },
+   {
+    "drink": "West Sixth Snake Eyes Imperial Stout (355 ml, 29.9 kr)",
+    "type": "beer",
+    "score": 0.85,
+    "abv": 9.6
+   },
+   {
+    "drink": "Dark Horse Buttery Chardonnay (750 ml, 100 kr)",
+    "type": "white wine",
+    "score": 0.197,
+    "abv": 14.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.4
+ },
+ {
+  "dish": "Chili con carne with beans and jalapeños",
+  "expected": "red meat",
+  "protein": "red meat",
+  "scores": {
+   "fat": 0.495,
+   "acidity": 0.2275,
+   "sweetness": 0.055,
+   "saltiness": 0.5325,
+   "spiciness": 0.5625,
+   "bitterness": 0.09,
+   "confidence": 0.6743333333333333,
+   "protein": "red meat"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SPICE_LOW_ALCOHOL",
+   "SPICE_AVOID_BITTER",
+   "SPICE_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "SPICE_AROMATIC_WHITE"
+  ],
+  "top3": [
+   {
+    "drink": "Tosterup Premium Cider (365 ml, 70 kr)",
+    "type": "cider",
+    "score": 0.716,
+    "abv": 3.6
+   },
+   {
+    "drink": "Mad Cow (330 ml, 24.9 kr)",
+    "type": "beer",
+    "score": 0.672,
+    "abv": 5.0
+   },
+   {
+    "drink": "Lambrusco dell'Emilia Bianco (750 ml, 82 kr)",
+    "type": "white wine",
+    "score": 0.578,
+    "abv": 7.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.7
+ },
+ {
+  "dish": "Braised beef short ribs with a sweet soy glaze",
+  "expected": "red meat",
+  "protein": "red meat",
+  "scores": {
+   "fat": 0.7525,
+   "acidity": 0.0975,
+   "sweetness": 0.6075,
+   "saltiness": 0.89,
+   "spiciness": 0.005,
+   "bitterness": 0.05,
+   "confidence": 0.6751,
+   "protein": "red meat"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "FAT_SOFTENS_TANNIN",
+   "RED_MEAT_STRUCTURE",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEET_MATCH",
+   "SWEET_AVOID_BITTER",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "RED_MEAT_CLASSIC_REDS",
+   "RED_MEAT_ROASTED_MALT"
+  ],
+  "top3": [
+   {
+    "drink": "Dugges Bryggeri DBA Mega (330 ml, 95 kr)",
+    "type": "beer",
+    "score": 2.418,
+    "abv": 16.5
+   },
+   {
+    "drink": "Domìni Veneti Recioto della Valpolicella Classico (375 ml, 179 kr)",
+    "type": "red wine",
+    "score": 2.164,
+    "abv": 12.5
+   },
+   {
+    "drink": "Jurançon Chateau de Rousse (375 ml, 79 kr)",
+    "type": "dessert wine",
+    "score": 2.117,
+    "abv": 12.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Crispy pork belly with chili glaze",
+  "expected": "pork",
+  "protein": "pork",
+  "scores": {
+   "fat": 0.945,
+   "acidity": 0.2375,
+   "sweetness": 0.445,
+   "saltiness": 0.7225,
+   "spiciness": 0.5,
+   "bitterness": 0.05,
+   "confidence": 0.6501666666666667,
+   "protein": "pork"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SPICE_LOW_ALCOHOL",
+   "SPICE_AVOID_BITTER",
+   "SPICE_SWEET",
+   "FAT_SPICE_BALANCE",
+   "SWEETNESS_IN_PROPORTION",
+   "SPICE_AROMATIC_WHITE"
+  ],
+  "top3": [
+   {
+    "drink": "Korrell Beerenauslese (375 ml, 200 kr)",
+    "type": "dessert wine",
+    "score": 2.422,
+    "abv": 6.0
+   },
+   {
+    "drink": "Bottega Lemon Spritz (750 ml, 139 kr)",
+    "type": "sparkling wine",
+    "score": 2.19,
+    "abv": 5.4
+   },
+   {
+    "drink": "Cidre Fermier du Pays de Bray Moelleux (750 ml, 76 kr)",
+    "type": "cider",
+    "score": 2.179,
+    "abv": 4.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.6
+ },
+ {
+  "dish": "Pulled pork sandwich with barbecue sauce and coleslaw",
+  "expected": "pork",
+  "protein": "pork",
+  "scores": {
+   "fat": 0.695,
+   "acidity": 0.4375,
+   "sweetness": 0.5475,
+   "saltiness": 0.6225,
+   "spiciness": 0.12,
+   "bitterness": 0.0925,
+   "confidence": 0.6005666666666666,
+   "protein": "pork"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEET_MATCH",
+   "SWEET_AVOID_BITTER",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS"
+  ],
+  "top3": [
+   {
+    "drink": "Nederburg Noble Late Harvest (375 ml, 130 kr)",
+    "type": "dessert wine",
+    "score": 2.353,
+    "abv": 8.5
+   },
+   {
+    "drink": "Briska Passionfrukt & Persika (330 ml, 16.5 kr)",
+    "type": "cider",
+    "score": 2.054,
+    "abv": 4.5
+   },
+   {
+    "drink": "Asti Martini (750 ml, 99 kr)",
+    "type": "sparkling wine",
+    "score": 2.051,
+    "abv": 7.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Roast pork loin with apple sauce and potatoes",
+  "expected": "pork",
+  "protein": "pork",
+  "scores": {
+   "fat": 0.48,
+   "acidity": 0.255,
+   "sweetness": 0.3975,
+   "saltiness": 0.4975,
+   "spiciness": 0.0025,
+   "bitterness": 0.02,
+   "confidence": 0.7202333333333333,
+   "protein": "pork"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS"
+  ],
+  "top3": [
+   {
+    "drink": "Ruffino Chianti (750 ml, 99 kr)",
+    "type": "red wine",
+    "score": 0.7,
+    "abv": 13.0
+   },
+   {
+    "drink": "Twenty Acres by Bogle Chardonnay (750 ml, 149 kr)",
+    "type": "white wine",
+    "score": 0.7,
+    "abv": 14.0
+   },
+   {
+    "drink": "Beaumont de Crayères Grande Réserve Brut (375 ml, 205 kr)",
+    "type": "sparkling wine",
+    "score": 0.7,
+    "abv": 12.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Spaghetti carbonara with guanciale and pecorino",
+  "expected": "pork",
+  "protein": "pork",
+  "scores": {
+   "fat": 0.875,
+   "acidity": 0.1,
+   "sweetness": 0.01,
+   "saltiness": 0.815,
+   "spiciness": 0.01,
+   "bitterness": 0.0725,
+   "confidence": 0.6844,
+   "protein": "pork"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS"
+  ],
+  "top3": [
+   {
+    "drink": "Bogle Family Vineyards Chardonnay (750 ml, 179 kr)",
+    "type": "white wine",
+    "score": 1.552,
+    "abv": 14.5
+   },
+   {
+    "drink": "Cono Sur Pinot Noir Organic (750 ml, 99 kr)",
+    "type": "red wine",
+    "score": 1.484,
+    "abv": 14.0
+   },
+   {
+    "drink": "Beaumont de Crayères Grande Réserve Brut (375 ml, 205 kr)",
+    "type": "sparkling wine",
+    "score": 1.482,
+    "abv": 12.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.4
+ },
+ {
+  "dish": "Christmas ham with mustard and red cabbage",
+  "expected": "pork",
+  "protein": "pork",
+  "scores": {
+   "fat": 0.6825,
+   "acidity": 0.465,
+   "sweetness": 0.34,
+   "saltiness": 0.9175,
+   "spiciness": 0.0975,
+   "bitterness": 0.255,
+   "confidence": 0.6086666666666667,
+   "protein": "pork"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS"
+  ],
+  "top3": [
+   {
+    "drink": "Côtes du Jura Chardonnay (750 ml, 199 kr)",
+    "type": "white wine",
+    "score": 1.607,
+    "abv": 13.0
+   },
+   {
+    "drink": "Beaumont de Crayères Grande Réserve Brut (375 ml, 205 kr)",
+    "type": "sparkling wine",
+    "score": 1.56,
+    "abv": 12.0
+   },
+   {
+    "drink": "Blandy's Colheita  Malmsey (500 ml, 189 kr)",
+    "type": "fortified wine",
+    "score": 1.535,
+    "abv": 19.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Pork schnitzel with lemon and potato salad",
+  "expected": "pork",
+  "protein": "pork",
+  "scores": {
+   "fat": 0.675,
+   "acidity": 0.505,
+   "sweetness": 0.11,
+   "saltiness": 0.5175,
+   "spiciness": 0.0025,
+   "bitterness": 0.14,
+   "confidence": 0.5730500000000001,
+   "protein": "pork"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "ACID_MATCH",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS",
+   "ACID_DISH_ITALIAN_RED"
+  ],
+  "top3": [
+   {
+    "drink": "Bogle Family Vineyards Chardonnay (750 ml, 179 kr)",
+    "type": "white wine",
+    "score": 1.837,
+    "abv": 14.5
+   },
+   {
+    "drink": "Cono Sur Pinot Noir Organic (750 ml, 99 kr)",
+    "type": "red wine",
+    "score": 1.837,
+    "abv": 14.0
+   },
+   {
+    "drink": "Beaumont de Crayères Grande Réserve Brut (375 ml, 205 kr)",
+    "type": "sparkling wine",
+    "score": 1.765,
+    "abv": 12.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.6
+ },
+ {
+  "dish": "Sweet and sour pork with pineapple",
+  "expected": "pork",
+  "protein": "pork",
+  "scores": {
+   "fat": 0.545,
+   "acidity": 0.66,
+   "sweetness": 0.71,
+   "saltiness": 0.515,
+   "spiciness": 0.0075,
+   "bitterness": 0.025,
+   "confidence": 0.7125833333333333,
+   "protein": "pork"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "SYSTEMBOLAGET_SUGGESTS",
+   "ACID_MATCH",
+   "SWEET_MATCH",
+   "SWEET_AVOID_BITTER",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS"
+  ],
+  "top3": [
+   {
+    "drink": "Briska Ananas (330 ml, 18.5 kr)",
+    "type": "cider",
+    "score": 1.815,
+    "abv": 4.5
+   },
+   {
+    "drink": "Korrell Beerenauslese (375 ml, 200 kr)",
+    "type": "dessert wine",
+    "score": 1.703,
+    "abv": 6.0
+   },
+   {
+    "drink": "Asti Martini (750 ml, 99 kr)",
+    "type": "sparkling wine",
+    "score": 1.455,
+    "abv": 7.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.6
+ },
+ {
+  "dish": "Grilled bratwurst with sauerkraut and mustard",
+  "expected": "pork",
+  "protein": "pork",
+  "scores": {
+   "fat": 0.7075,
+   "acidity": 0.6425,
+   "sweetness": 0.0775,
+   "saltiness": 0.7525,
+   "spiciness": 0.05,
+   "bitterness": 0.2525,
+   "confidence": 0.6815,
+   "protein": "pork"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "ACID_MATCH",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS",
+   "ACID_DISH_ITALIAN_RED"
+  ],
+  "top3": [
+   {
+    "drink": "Piccini Collezione Oro Chianti Organic (750 ml, 109 kr)",
+    "type": "red wine",
+    "score": 2.02,
+    "abv": 13.0
+   },
+   {
+    "drink": "Bourgogne Les Murelles Domaine Roux (750 ml, 199 kr)",
+    "type": "white wine",
+    "score": 2.017,
+    "abv": 13.0
+   },
+   {
+    "drink": "Beaumont de Crayères Grande Réserve Brut (375 ml, 205 kr)",
+    "type": "sparkling wine",
+    "score": 1.963,
+    "abv": 12.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.6
+ },
+ {
+  "dish": "Thai pork larb with lime, chili and mint",
+  "expected": "pork",
+  "protein": "pork",
+  "scores": {
+   "fat": 0.3,
+   "acidity": 0.77,
+   "sweetness": 0.1275,
+   "saltiness": 0.5775,
+   "spiciness": 0.67,
+   "bitterness": 0.15,
+   "confidence": 0.6206,
+   "protein": "pork"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "SYSTEMBOLAGET_SUGGESTS",
+   "ACID_MATCH",
+   "SPICE_LOW_ALCOHOL",
+   "SPICE_AVOID_BITTER",
+   "SPICE_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "ACID_DISH_ITALIAN_RED",
+   "SPICE_AROMATIC_WHITE"
+  ],
+  "top3": [
+   {
+    "drink": "Rudu Cider En halvtorr smålänning (750 ml, 149 kr)",
+    "type": "cider",
+    "score": 1.779,
+    "abv": 4.0
+   },
+   {
+    "drink": "Kloster Eberbach Riesling Kabinett (750 ml, 139 kr)",
+    "type": "white wine",
+    "score": 1.206,
+    "abv": 7.5
+   },
+   {
+    "drink": "Bottega Lemon Spritz (200 ml, 59 kr)",
+    "type": "sparkling wine",
+    "score": 1.03,
+    "abv": 5.4
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Falukorv sausage stroganoff with rice",
+  "expected": "pork",
+  "protein": "pork",
+  "scores": {
+   "fat": 0.7375,
+   "acidity": 0.25,
+   "sweetness": 0.105,
+   "saltiness": 0.615,
+   "spiciness": 0.02,
+   "bitterness": 0.0175,
+   "confidence": 0.5208,
+   "protein": "pork"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS"
+  ],
+  "top3": [
+   {
+    "drink": "Campillo Blanco (750 ml, 129 kr)",
+    "type": "white wine",
+    "score": 1.572,
+    "abv": 12.5
+   },
+   {
+    "drink": "Cono Sur Pinot Noir Organic (750 ml, 99 kr)",
+    "type": "red wine",
+    "score": 1.521,
+    "abv": 14.0
+   },
+   {
+    "drink": "Beaumont de Crayères Grande Réserve Brut (375 ml, 205 kr)",
+    "type": "sparkling wine",
+    "score": 1.511,
+    "abv": 12.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.4
+ },
+ {
+  "dish": "Pork ramen with tonkotsu broth and soft egg",
+  "expected": "pork",
+  "protein": "pork",
+  "scores": {
+   "fat": 0.7875,
+   "acidity": 0.0675,
+   "sweetness": 0.165,
+   "saltiness": 0.7675,
+   "spiciness": 0.0125,
+   "bitterness": 0.055,
+   "confidence": 0.7111666666666665,
+   "protein": "pork"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS"
+  ],
+  "top3": [
+   {
+    "drink": "Côtes du Jura Chardonnay (750 ml, 199 kr)",
+    "type": "white wine",
+    "score": 1.581,
+    "abv": 13.0
+   },
+   {
+    "drink": "Beaumont de Crayères Grande Réserve Brut (375 ml, 205 kr)",
+    "type": "sparkling wine",
+    "score": 1.519,
+    "abv": 12.0
+   },
+   {
+    "drink": "Cono Sur Pinot Noir Organic (750 ml, 99 kr)",
+    "type": "red wine",
+    "score": 1.517,
+    "abv": 14.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.6
+ },
+ {
+  "dish": "Spare ribs with sticky honey barbecue glaze",
+  "expected": "pork",
+  "protein": "pork",
+  "scores": {
+   "fat": 0.745,
+   "acidity": 0.2675,
+   "sweetness": 0.735,
+   "saltiness": 0.5375,
+   "spiciness": 0.06,
+   "bitterness": 0.055,
+   "confidence": 0.7802333333333333,
+   "protein": "pork"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEET_MATCH",
+   "SWEET_AVOID_BITTER",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS"
+  ],
+  "top3": [
+   {
+    "drink": "Nederburg Noble Late Harvest (375 ml, 130 kr)",
+    "type": "dessert wine",
+    "score": 2.134,
+    "abv": 8.5
+   },
+   {
+    "drink": "Briska Passionfrukt & Persika (330 ml, 16.5 kr)",
+    "type": "cider",
+    "score": 1.99,
+    "abv": 4.5
+   },
+   {
+    "drink": "Asti Martini (750 ml, 99 kr)",
+    "type": "sparkling wine",
+    "score": 1.8,
+    "abv": 7.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Chorizo and potato stew with paprika",
+  "expected": "pork",
+  "protein": "pork",
+  "scores": {
+   "fat": 0.72,
+   "acidity": 0.04,
+   "sweetness": 0.04,
+   "saltiness": 0.7125,
+   "spiciness": 0.275,
+   "bitterness": 0.055,
+   "confidence": 0.67545,
+   "protein": "pork"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS"
+  ],
+  "top3": [
+   {
+    "drink": "Bogle Family Vineyards Chardonnay (750 ml, 179 kr)",
+    "type": "white wine",
+    "score": 1.584,
+    "abv": 14.5
+   },
+   {
+    "drink": "Beaumont de Crayères Grande Réserve Brut (375 ml, 205 kr)",
+    "type": "sparkling wine",
+    "score": 1.528,
+    "abv": 12.0
+   },
+   {
+    "drink": "Cono Sur Pinot Noir Organic (750 ml, 99 kr)",
+    "type": "red wine",
+    "score": 1.525,
+    "abv": 14.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.4
+ },
+ {
+  "dish": "Pork tenderloin with creamy mushroom sauce",
+  "expected": "pork",
+  "protein": "pork",
+  "scores": {
+   "fat": 0.5775,
+   "acidity": 0.095,
+   "sweetness": 0.0525,
+   "saltiness": 0.5075,
+   "spiciness": 0.0025,
+   "bitterness": 0.03,
+   "confidence": 0.64,
+   "protein": "pork"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS"
+  ],
+  "top3": [
+   {
+    "drink": "Jacob's Creek Lighter Alcohol Shiraz (750 ml, 90 kr)",
+    "type": "red wine",
+    "score": 0.7,
+    "abv": 9.5
+   },
+   {
+    "drink": "Bonterra Chardonnay (750 ml, 129 kr)",
+    "type": "white wine",
+    "score": 0.7,
+    "abv": 13.5
+   },
+   {
+    "drink": "Beaumont de Crayères Grande Réserve Brut (375 ml, 205 kr)",
+    "type": "sparkling wine",
+    "score": 0.7,
+    "abv": 12.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Pea soup with pork, Swedish Thursday style",
+  "expected": "pork",
+  "protein": "pork",
+  "scores": {
+   "fat": 0.55,
+   "acidity": 0.0325,
+   "sweetness": 0.1475,
+   "saltiness": 0.61,
+   "spiciness": 0.005,
+   "bitterness": 0.06,
+   "confidence": 0.5735,
+   "protein": "pork"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS"
+  ],
+  "top3": [
+   {
+    "drink": "Grower's Club Malbec (750 ml, 79 kr)",
+    "type": "red wine",
+    "score": 0.787,
+    "abv": 7.5
+   },
+   {
+    "drink": "Beaumont de Crayères Grande Réserve Brut (375 ml, 205 kr)",
+    "type": "sparkling wine",
+    "score": 0.787,
+    "abv": 12.0
+   },
+   {
+    "drink": "Lomond Sauvignon Blanc (750 ml, 149 kr)",
+    "type": "white wine",
+    "score": 0.771,
+    "abv": 13.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Char siu Chinese barbecue pork with rice",
+  "expected": "pork",
+  "protein": "pork",
+  "scores": {
+   "fat": 0.5325,
+   "acidity": 0.09,
+   "sweetness": 0.625,
+   "saltiness": 0.7125,
+   "spiciness": 0.01,
+   "bitterness": 0.045,
+   "confidence": 0.5775,
+   "protein": "pork"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEET_MATCH",
+   "SWEET_AVOID_BITTER",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS"
+  ],
+  "top3": [
+   {
+    "drink": "Briska Ananas (330 ml, 18.5 kr)",
+    "type": "cider",
+    "score": 1.889,
+    "abv": 4.5
+   },
+   {
+    "drink": "Korrell Beerenauslese (375 ml, 200 kr)",
+    "type": "dessert wine",
+    "score": 1.729,
+    "abv": 6.0
+   },
+   {
+    "drink": "Asti Martini (750 ml, 99 kr)",
+    "type": "sparkling wine",
+    "score": 1.723,
+    "abv": 7.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.4
+ },
+ {
+  "dish": "Prosciutto-wrapped melon",
+  "expected": "pork",
+  "protein": "pork",
+  "scores": {
+   "fat": 0.4475,
+   "acidity": 0.08,
+   "sweetness": 0.5975,
+   "saltiness": 0.84,
+   "spiciness": 0.0025,
+   "bitterness": 0.08,
+   "confidence": 0.53625,
+   "protein": "pork"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEET_MATCH",
+   "SWEET_AVOID_BITTER",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS"
+  ],
+  "top3": [
+   {
+    "drink": "Briska Ananas (330 ml, 18.5 kr)",
+    "type": "cider",
+    "score": 1.936,
+    "abv": 4.5
+   },
+   {
+    "drink": "Korrell Beerenauslese (375 ml, 200 kr)",
+    "type": "dessert wine",
+    "score": 1.79,
+    "abv": 6.0
+   },
+   {
+    "drink": "Asti Martini (750 ml, 99 kr)",
+    "type": "sparkling wine",
+    "score": 1.789,
+    "abv": 7.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.4
+ },
+ {
+  "dish": "Pork vindaloo, hot and sour curry",
+  "expected": "pork",
+  "protein": "pork",
+  "scores": {
+   "fat": 0.645,
+   "acidity": 0.8775,
+   "sweetness": 0.115,
+   "saltiness": 0.5925,
+   "spiciness": 0.86,
+   "bitterness": 0.1325,
+   "confidence": 0.56875,
+   "protein": "pork"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "ACID_MATCH",
+   "SPICE_LOW_ALCOHOL",
+   "SPICE_AVOID_BITTER",
+   "SPICE_SWEET",
+   "FAT_SPICE_BALANCE",
+   "SWEETNESS_IN_PROPORTION",
+   "ACID_DISH_ITALIAN_RED",
+   "SPICE_AROMATIC_WHITE"
+  ],
+  "top3": [
+   {
+    "drink": "Rudu Cider En halvtorr smålänning (750 ml, 149 kr)",
+    "type": "cider",
+    "score": 3.042,
+    "abv": 4.0
+   },
+   {
+    "drink": "Kloster Eberbach Riesling Kabinett (750 ml, 139 kr)",
+    "type": "white wine",
+    "score": 2.528,
+    "abv": 7.5
+   },
+   {
+    "drink": "Bottega Lemon Spritz (200 ml, 59 kr)",
+    "type": "sparkling wine",
+    "score": 2.303,
+    "abv": 5.4
+   }
+  ],
+  "flags": [],
+  "seconds": 0.6
+ },
+ {
+  "dish": "Bacon-wrapped dates",
+  "expected": "pork",
+  "protein": "pork",
+  "scores": {
+   "fat": 0.7675,
+   "acidity": 0.0475,
+   "sweetness": 0.665,
+   "saltiness": 0.75,
+   "spiciness": 0.0075,
+   "bitterness": 0.105,
+   "confidence": 0.5888666666666666,
+   "protein": "pork"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEET_MATCH",
+   "SWEET_AVOID_BITTER",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS"
+  ],
+  "top3": [
+   {
+    "drink": "Nederburg Noble Late Harvest (375 ml, 130 kr)",
+    "type": "dessert wine",
+    "score": 2.665,
+    "abv": 8.5
+   },
+   {
+    "drink": "Briska Passionfrukt & Persika (330 ml, 16.5 kr)",
+    "type": "cider",
+    "score": 2.442,
+    "abv": 4.5
+   },
+   {
+    "drink": "Asti Martini (750 ml, 99 kr)",
+    "type": "sparkling wine",
+    "score": 2.336,
+    "abv": 7.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Isterband smoked sausage with dill potatoes",
+  "expected": "pork",
+  "protein": "pork",
+  "scores": {
+   "fat": 0.6375,
+   "acidity": 0.065,
+   "sweetness": 0.045,
+   "saltiness": 0.725,
+   "spiciness": 0.015,
+   "bitterness": 0.035,
+   "confidence": 0.5832,
+   "protein": "pork"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS"
+  ],
+  "top3": [
+   {
+    "drink": "Campillo Blanco (750 ml, 129 kr)",
+    "type": "white wine",
+    "score": 1.578,
+    "abv": 12.5
+   },
+   {
+    "drink": "Beaumont de Crayères Grande Réserve Brut (375 ml, 205 kr)",
+    "type": "sparkling wine",
+    "score": 1.53,
+    "abv": 12.0
+   },
+   {
+    "drink": "Cono Sur Pinot Noir Organic (750 ml, 99 kr)",
+    "type": "red wine",
+    "score": 1.518,
+    "abv": 14.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Roast chicken with lemon, thyme and roast potatoes",
+  "expected": "poultry",
+  "protein": "poultry",
+  "scores": {
+   "fat": 0.5775,
+   "acidity": 0.3,
+   "sweetness": 0.075,
+   "saltiness": 0.4975,
+   "spiciness": 0.0025,
+   "bitterness": 0.1,
+   "confidence": 0.7206499999999999,
+   "protein": "poultry"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS"
+  ],
+  "top3": [
+   {
+    "drink": "Simonsig Chardonnay (750 ml, 109 kr)",
+    "type": "white wine",
+    "score": 1.42,
+    "abv": 13.0
+   },
+   {
+    "drink": "Gorgeous Brut Rosé (750 ml, 149 kr)",
+    "type": "sparkling wine",
+    "score": 1.42,
+    "abv": 12.0
+   },
+   {
+    "drink": "Stoneleigh Pinot Noir Rosé (750 ml, 129 kr)",
+    "type": "rosé wine",
+    "score": 1.34,
+    "abv": 12.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Chicken tikka masala with naan",
+  "expected": "poultry",
+  "protein": "poultry",
+  "scores": {
+   "fat": 0.735,
+   "acidity": 0.2725,
+   "sweetness": 0.2625,
+   "saltiness": 0.5225,
+   "spiciness": 0.3325,
+   "bitterness": 0.0425,
+   "confidence": 0.6599333333333333,
+   "protein": "poultry"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS"
+  ],
+  "top3": [
+   {
+    "drink": "Dark Horse Buttery Chardonnay (750 ml, 100 kr)",
+    "type": "white wine",
+    "score": 2.222,
+    "abv": 14.5
+   },
+   {
+    "drink": "Gorgeous Brut Rosé (750 ml, 149 kr)",
+    "type": "sparkling wine",
+    "score": 2.143,
+    "abv": 12.0
+   },
+   {
+    "drink": "Stoneleigh Pinot Noir Rosé (750 ml, 129 kr)",
+    "type": "rosé wine",
+    "score": 1.946,
+    "abv": 12.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.4
+ },
+ {
+  "dish": "Fried chicken wings with buffalo hot sauce",
+  "expected": "poultry",
+  "protein": "poultry",
+  "scores": {
+   "fat": 0.8475,
+   "acidity": 0.57,
+   "sweetness": 0.05,
+   "saltiness": 0.69,
+   "spiciness": 0.6775,
+   "bitterness": 0.05,
+   "confidence": 0.6689833333333333,
+   "protein": "poultry"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "ACID_MATCH",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SPICE_LOW_ALCOHOL",
+   "SPICE_AVOID_BITTER",
+   "SPICE_SWEET",
+   "FAT_SPICE_BALANCE",
+   "SWEETNESS_IN_PROPORTION",
+   "SPICE_AROMATIC_WHITE"
+  ],
+  "top3": [
+   {
+    "drink": "Rudu Cider En halvtorr smålänning (750 ml, 149 kr)",
+    "type": "cider",
+    "score": 3.473,
+    "abv": 4.0
+   },
+   {
+    "drink": "Kloster Eberbach Riesling Kabinett (750 ml, 139 kr)",
+    "type": "white wine",
+    "score": 3.04,
+    "abv": 7.5
+   },
+   {
+    "drink": "Vault City A Lil Stoopid (440 ml, 52.9 kr)",
+    "type": "beer",
+    "score": 2.732,
+    "abv": 4.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.4
+ },
+ {
+  "dish": "Chicken Caesar salad with parmesan and croutons",
+  "expected": "poultry",
+  "protein": "poultry",
+  "scores": {
+   "fat": 0.685,
+   "acidity": 0.4425,
+   "sweetness": 0.035,
+   "saltiness": 0.7025,
+   "spiciness": 0.0025,
+   "bitterness": 0.2725,
+   "confidence": 0.7083999999999999,
+   "protein": "poultry"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS"
+  ],
+  "top3": [
+   {
+    "drink": "Côtes du Jura Chardonnay (750 ml, 199 kr)",
+    "type": "white wine",
+    "score": 2.303,
+    "abv": 13.0
+   },
+   {
+    "drink": "Gorgeous Brut Rosé (750 ml, 149 kr)",
+    "type": "sparkling wine",
+    "score": 2.249,
+    "abv": 12.0
+   },
+   {
+    "drink": "Kutjevo Rosé (750 ml, 129 kr)",
+    "type": "rosé wine",
+    "score": 2.041,
+    "abv": 12.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Duck breast with orange sauce",
+  "expected": "poultry",
+  "protein": "poultry",
+  "scores": {
+   "fat": 0.7225,
+   "acidity": 0.4925,
+   "sweetness": 0.405,
+   "saltiness": 0.5025,
+   "spiciness": 0.0025,
+   "bitterness": 0.16,
+   "confidence": 0.5888666666666666,
+   "protein": "poultry"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS"
+  ],
+  "top3": [
+   {
+    "drink": "Twenty Acres by Bogle Chardonnay (750 ml, 149 kr)",
+    "type": "white wine",
+    "score": 2.223,
+    "abv": 14.0
+   },
+   {
+    "drink": "Gorgeous Brut Rosé (750 ml, 149 kr)",
+    "type": "sparkling wine",
+    "score": 2.145,
+    "abv": 12.0
+   },
+   {
+    "drink": "Stoneleigh Pinot Noir Rosé (750 ml, 129 kr)",
+    "type": "rosé wine",
+    "score": 1.95,
+    "abv": 12.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.4
+ },
+ {
+  "dish": "Thai green curry with chicken and coconut milk",
+  "expected": "poultry",
+  "protein": "poultry",
+  "scores": {
+   "fat": 0.7475,
+   "acidity": 0.235,
+   "sweetness": 0.3425,
+   "saltiness": 0.54,
+   "spiciness": 0.525,
+   "bitterness": 0.095,
+   "confidence": 0.697,
+   "protein": "poultry"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SPICE_LOW_ALCOHOL",
+   "SPICE_AVOID_BITTER",
+   "SPICE_SWEET",
+   "FAT_SPICE_BALANCE",
+   "SWEETNESS_IN_PROPORTION",
+   "SPICE_AROMATIC_WHITE"
+  ],
+  "top3": [
+   {
+    "drink": "Cidre Fermier du Pays de Bray Moelleux (750 ml, 76 kr)",
+    "type": "cider",
+    "score": 2.763,
+    "abv": 4.0
+   },
+   {
+    "drink": "Aviva Pink Gold (750 ml, 89 kr)",
+    "type": "sparkling wine",
+    "score": 2.49,
+    "abv": 5.5
+   },
+   {
+    "drink": "Kloster Eberbach Riesling Spätlese (750 ml, 169 kr)",
+    "type": "white wine",
+    "score": 2.487,
+    "abv": 7.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Coq au vin",
+  "expected": "poultry",
+  "protein": "poultry",
+  "scores": {
+   "fat": 0.625,
+   "acidity": 0.3475,
+   "sweetness": 0.0775,
+   "saltiness": 0.5175,
+   "spiciness": 0.0075,
+   "bitterness": 0.1075,
+   "confidence": 0.3473,
+   "protein": "poultry"
+  },
+  "status": "clarify",
+  "fired_rules": [],
+  "top3": [],
+  "flags": [],
+  "seconds": 0.3
+ },
+ {
+  "dish": "Roast turkey with gravy and cranberry sauce",
+  "expected": "poultry",
+  "protein": "poultry",
+  "scores": {
+   "fat": 0.5425,
+   "acidity": 0.295,
+   "sweetness": 0.3275,
+   "saltiness": 0.5575,
+   "spiciness": 0.0025,
+   "bitterness": 0.0775,
+   "confidence": 0.686,
+   "protein": "poultry"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS"
+  ],
+  "top3": [
+   {
+    "drink": "Côtes du Jura Chardonnay (750 ml, 199 kr)",
+    "type": "white wine",
+    "score": 1.42,
+    "abv": 13.0
+   },
+   {
+    "drink": "Casteloro Prosecco Rosé (750 ml, 99 kr)",
+    "type": "sparkling wine",
+    "score": 1.42,
+    "abv": 11.0
+   },
+   {
+    "drink": "Stoneleigh Pinot Noir Rosé (750 ml, 129 kr)",
+    "type": "rosé wine",
+    "score": 1.34,
+    "abv": 12.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.3
+ },
+ {
+  "dish": "Chicken satay with peanut sauce",
+  "expected": "poultry",
+  "protein": "poultry",
+  "scores": {
+   "fat": 0.71,
+   "acidity": 0.22,
+   "sweetness": 0.4325,
+   "saltiness": 0.625,
+   "spiciness": 0.2425,
+   "bitterness": 0.0625,
+   "confidence": 0.5625,
+   "protein": "poultry"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS"
+  ],
+  "top3": [
+   {
+    "drink": "Bourgogne Les Murelles Domaine Roux (750 ml, 199 kr)",
+    "type": "white wine",
+    "score": 2.294,
+    "abv": 13.0
+   },
+   {
+    "drink": "Gorgeous Brut Rosé (750 ml, 149 kr)",
+    "type": "sparkling wine",
+    "score": 2.236,
+    "abv": 12.0
+   },
+   {
+    "drink": "Château Baulac Dodijos (375 ml, 145 kr)",
+    "type": "dessert wine",
+    "score": 2.107,
+    "abv": 13.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.3
+ },
+ {
+  "dish": "Creamy chicken and mushroom pasta",
+  "expected": "poultry",
+  "protein": "poultry",
+  "scores": {
+   "fat": 0.79,
+   "acidity": 0.0525,
+   "sweetness": 0.035,
+   "saltiness": 0.5125,
+   "spiciness": 0.0025,
+   "bitterness": 0.0175,
+   "confidence": 0.6799999999999999,
+   "protein": "poultry"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS"
+  ],
+  "top3": [
+   {
+    "drink": "Twenty Acres by Bogle Chardonnay (750 ml, 149 kr)",
+    "type": "white wine",
+    "score": 2.213,
+    "abv": 14.0
+   },
+   {
+    "drink": "Gorgeous Brut Rosé (750 ml, 149 kr)",
+    "type": "sparkling wine",
+    "score": 2.128,
+    "abv": 12.0
+   },
+   {
+    "drink": "Stoneleigh Pinot Noir Rosé (750 ml, 129 kr)",
+    "type": "rosé wine",
+    "score": 1.921,
+    "abv": 12.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.6
+ },
+ {
+  "dish": "Kung pao chicken with peanuts and dried chilies",
+  "expected": "poultry",
+  "protein": "poultry",
+  "scores": {
+   "fat": 0.59,
+   "acidity": 0.3425,
+   "sweetness": 0.3,
+   "saltiness": 0.7075,
+   "spiciness": 0.6875,
+   "bitterness": 0.145,
+   "confidence": 0.6259666666666666,
+   "protein": "poultry"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SPICE_LOW_ALCOHOL",
+   "SPICE_AVOID_BITTER",
+   "SPICE_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "SPICE_AROMATIC_WHITE"
+  ],
+  "top3": [
+   {
+    "drink": "Cidre Fermier du Pays de Bray Moelleux (750 ml, 76 kr)",
+    "type": "cider",
+    "score": 2.579,
+    "abv": 4.0
+   },
+   {
+    "drink": "Aviva Pink Gold (750 ml, 89 kr)",
+    "type": "sparkling wine",
+    "score": 2.44,
+    "abv": 5.5
+   },
+   {
+    "drink": "Moscato d'Asti G.D. Vajra (750 ml, 149 kr)",
+    "type": "dessert wine",
+    "score": 2.177,
+    "abv": 5.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Grilled chicken souvlaki with tzatziki",
+  "expected": "poultry",
+  "protein": "poultry",
+  "scores": {
+   "fat": 0.3325,
+   "acidity": 0.415,
+   "sweetness": 0.03,
+   "saltiness": 0.52,
+   "spiciness": 0.015,
+   "bitterness": 0.105,
+   "confidence": 0.6466500000000001,
+   "protein": "poultry"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS"
+  ],
+  "top3": [
+   {
+    "drink": "Casillero del Diablo Chardonnay (750 ml, 89 kr)",
+    "type": "white wine",
+    "score": 1.42,
+    "abv": 12.5
+   },
+   {
+    "drink": "Haggan Pet Nat (750 ml, 239 kr)",
+    "type": "sparkling wine",
+    "score": 1.42,
+    "abv": 12.5
+   },
+   {
+    "drink": "Bouchard Aîné & Fils Pinot Noir Rosé (750 ml, 99 kr)",
+    "type": "rosé wine",
+    "score": 1.34,
+    "abv": 12.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.4
+ },
+ {
+  "dish": "Confit duck leg with lentils",
+  "expected": "poultry",
+  "protein": "poultry",
+  "scores": {
+   "fat": 0.78,
+   "acidity": 0.22,
+   "sweetness": 0.0575,
+   "saltiness": 0.735,
+   "spiciness": 0.0125,
+   "bitterness": 0.2025,
+   "confidence": 0.5125333333333333,
+   "protein": "poultry"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS"
+  ],
+  "top3": [
+   {
+    "drink": "Côtes du Jura Chardonnay (750 ml, 199 kr)",
+    "type": "white wine",
+    "score": 2.299,
+    "abv": 13.0
+   },
+   {
+    "drink": "Gorgeous Brut Rosé (750 ml, 149 kr)",
+    "type": "sparkling wine",
+    "score": 2.236,
+    "abv": 12.0
+   },
+   {
+    "drink": "Kutjevo Rosé (750 ml, 129 kr)",
+    "type": "rosé wine",
+    "score": 2.012,
+    "abv": 12.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.4
+ },
+ {
+  "dish": "Chicken noodle soup",
+  "expected": "poultry",
+  "protein": "poultry",
+  "scores": {
+   "fat": 0.265,
+   "acidity": 0.0375,
+   "sweetness": 0.085,
+   "saltiness": 0.5075,
+   "spiciness": 0.0025,
+   "bitterness": 0.0075,
+   "confidence": 0.546,
+   "protein": "poultry"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS"
+  ],
+  "top3": [
+   {
+    "drink": "Rotari Gran Rosé Brut (750 ml, 139 kr)",
+    "type": "sparkling wine",
+    "score": 1.42,
+    "abv": 12.5
+   },
+   {
+    "drink": "Sofia y Sebastian Chardonnay is best enjoyed with friends (750 ml, 99 kr)",
+    "type": "white wine",
+    "score": 1.42,
+    "abv": 14.0
+   },
+   {
+    "drink": "This is the Idiot Pinot Noir Rosé (750 ml, 119 kr)",
+    "type": "rosé wine",
+    "score": 1.34,
+    "abv": 12.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.3
+ },
+ {
+  "dish": "Korean fried chicken with sweet chili glaze",
+  "expected": "poultry",
+  "protein": "poultry",
+  "scores": {
+   "fat": 0.76,
+   "acidity": 0.255,
+   "sweetness": 0.7075,
+   "saltiness": 0.5575,
+   "spiciness": 0.3125,
+   "bitterness": 0.025,
+   "confidence": 0.7252666666666667,
+   "protein": "poultry"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEET_MATCH",
+   "SWEET_AVOID_BITTER",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS"
+  ],
+  "top3": [
+   {
+    "drink": "Nederburg Noble Late Harvest (375 ml, 130 kr)",
+    "type": "dessert wine",
+    "score": 2.808,
+    "abv": 8.5
+   },
+   {
+    "drink": "Briska Passionfrukt & Persika (330 ml, 16.5 kr)",
+    "type": "cider",
+    "score": 2.643,
+    "abv": 4.5
+   },
+   {
+    "drink": "Asti Martini (750 ml, 99 kr)",
+    "type": "sparkling wine",
+    "score": 2.465,
+    "abv": 7.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.4
+ },
+ {
+  "dish": "Chicken korma with almonds and cream",
+  "expected": "poultry",
+  "protein": "poultry",
+  "scores": {
+   "fat": 0.865,
+   "acidity": 0.15,
+   "sweetness": 0.345,
+   "saltiness": 0.5,
+   "spiciness": 0.195,
+   "bitterness": 0.03,
+   "confidence": 0.6264000000000001,
+   "protein": "poultry"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS"
+  ],
+  "top3": [
+   {
+    "drink": "Dark Horse Buttery Chardonnay (750 ml, 100 kr)",
+    "type": "white wine",
+    "score": 2.184,
+    "abv": 14.5
+   },
+   {
+    "drink": "Gorgeous Brut Rosé (750 ml, 149 kr)",
+    "type": "sparkling wine",
+    "score": 2.091,
+    "abv": 12.0
+   },
+   {
+    "drink": "Stoneleigh Pinot Noir Rosé (750 ml, 129 kr)",
+    "type": "rosé wine",
+    "score": 1.873,
+    "abv": 12.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.7
+ },
+ {
+  "dish": "Peking duck pancakes with hoisin sauce",
+  "expected": "poultry",
+  "protein": "poultry",
+  "scores": {
+   "fat": 0.6625,
+   "acidity": 0.105,
+   "sweetness": 0.4225,
+   "saltiness": 0.6,
+   "spiciness": 0.015,
+   "bitterness": 0.025,
+   "confidence": 0.6007500000000001,
+   "protein": "poultry"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS"
+  ],
+  "top3": [
+   {
+    "drink": "Campillo Blanco (750 ml, 129 kr)",
+    "type": "white wine",
+    "score": 2.288,
+    "abv": 12.5
+   },
+   {
+    "drink": "Gorgeous Brut Rosé (750 ml, 149 kr)",
+    "type": "sparkling wine",
+    "score": 2.235,
+    "abv": 12.0
+   },
+   {
+    "drink": "Château Baulac Dodijos (375 ml, 145 kr)",
+    "type": "dessert wine",
+    "score": 2.068,
+    "abv": 13.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.7
+ },
+ {
+  "dish": "Lemon and herb chicken skewers with couscous",
+  "expected": "poultry",
+  "protein": "poultry",
+  "scores": {
+   "fat": 0.255,
+   "acidity": 0.5025,
+   "sweetness": 0.055,
+   "saltiness": 0.48,
+   "spiciness": 0.0025,
+   "bitterness": 0.12,
+   "confidence": 0.6084,
+   "protein": "poultry"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "ACID_MATCH",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_DISH_LIGHT_DRINK",
+   "LIGHT_MEAT_CLASSICS"
+  ],
+  "top3": [
+   {
+    "drink": "Chouette Poire Blanc (750 ml, 79 kr)",
+    "type": "cider",
+    "score": 1.944,
+    "abv": 4.0
+   },
+   {
+    "drink": "Ginger Prince Rosé Bubbles (375 ml, 79 kr)",
+    "type": "sparkling wine",
+    "score": 1.937,
+    "abv": 11.7
+   },
+   {
+    "drink": "Bergkloster Lebendig Frisch (750 ml, 170 kr)",
+    "type": "white wine",
+    "score": 1.828,
+    "abv": 11.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Jerk chicken with rice and beans",
+  "expected": "poultry",
+  "protein": "poultry",
+  "scores": {
+   "fat": 0.4425,
+   "acidity": 0.285,
+   "sweetness": 0.2425,
+   "saltiness": 0.6125,
+   "spiciness": 0.6675,
+   "bitterness": 0.115,
+   "confidence": 0.5484666666666667,
+   "protein": "poultry"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SPICE_LOW_ALCOHOL",
+   "SPICE_AVOID_BITTER",
+   "SPICE_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "SPICE_AROMATIC_WHITE"
+  ],
+  "top3": [
+   {
+    "drink": "Cidre Fermier du Pays de Bray Moelleux (750 ml, 76 kr)",
+    "type": "cider",
+    "score": 2.501,
+    "abv": 4.0
+   },
+   {
+    "drink": "Aviva Pink Gold (750 ml, 89 kr)",
+    "type": "sparkling wine",
+    "score": 2.104,
+    "abv": 5.5
+   },
+   {
+    "drink": "Kloster Eberbach Riesling Spätlese (750 ml, 169 kr)",
+    "type": "white wine",
+    "score": 2.009,
+    "abv": 7.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.6
+ },
+ {
+  "dish": "Chicken schnitzel with cream sauce",
+  "expected": "poultry",
+  "protein": "poultry",
+  "scores": {
+   "fat": 0.845,
+   "acidity": 0.1075,
+   "sweetness": 0.0325,
+   "saltiness": 0.5375,
+   "spiciness": 0.0025,
+   "bitterness": 0.01,
+   "confidence": 0.5903333333333334,
+   "protein": "poultry"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_MEAT_CLASSICS"
+  ],
+  "top3": [
+   {
+    "drink": "Twenty Acres by Bogle Chardonnay (750 ml, 149 kr)",
+    "type": "white wine",
+    "score": 2.193,
+    "abv": 14.0
+   },
+   {
+    "drink": "Gorgeous Brut Rosé (750 ml, 149 kr)",
+    "type": "sparkling wine",
+    "score": 2.103,
+    "abv": 12.0
+   },
+   {
+    "drink": "Stoneleigh Pinot Noir Rosé (750 ml, 129 kr)",
+    "type": "rosé wine",
+    "score": 1.888,
+    "abv": 12.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.6
+ },
+ {
+  "dish": "Pan-fried salmon with dill butter and boiled potatoes",
+  "expected": "fish",
+  "protein": "fish",
+  "scores": {
+   "fat": 0.6825,
+   "acidity": 0.06,
+   "sweetness": 0.0725,
+   "saltiness": 0.495,
+   "spiciness": 0.0,
+   "bitterness": 0.02,
+   "confidence": 0.7467666666666666,
+   "protein": "fish"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "FISH_AVOID_TANNIN",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "FISH_CRISP_WHITE",
+   "FISH_WHEAT_OR_PILSNER"
+  ],
+  "top3": [
+   {
+    "drink": "Twenty Acres by Bogle Chardonnay (750 ml, 149 kr)",
+    "type": "white wine",
+    "score": 2.402,
+    "abv": 14.0
+   },
+   {
+    "drink": "Von Buhl Riesling Sekt Brut (750 ml, 199 kr)",
+    "type": "sparkling wine",
+    "score": 2.329,
+    "abv": 12.0
+   },
+   {
+    "drink": "Marlborough Estate Reserve Sauvignon Blanc Rosé (750 ml, 110 kr)",
+    "type": "rosé wine",
+    "score": 2.028,
+    "abv": 9.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Fish and chips with tartar sauce",
+  "expected": "fish",
+  "protein": "fish",
+  "scores": {
+   "fat": 0.7825,
+   "acidity": 0.35,
+   "sweetness": 0.135,
+   "saltiness": 0.6225,
+   "spiciness": 0.005,
+   "bitterness": 0.0375,
+   "confidence": 0.6363333333333333,
+   "protein": "fish"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "FISH_AVOID_TANNIN",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "FISH_CRISP_WHITE",
+   "FISH_WHEAT_OR_PILSNER"
+  ],
+  "top3": [
+   {
+    "drink": "Kloster Eberbach Riesling Kabinett (750 ml, 139 kr)",
+    "type": "white wine",
+    "score": 2.465,
+    "abv": 7.5
+   },
+   {
+    "drink": "Leitz 60 Brut Nature (750 ml, 239 kr)",
+    "type": "sparkling wine",
+    "score": 2.446,
+    "abv": 12.0
+   },
+   {
+    "drink": "Marlborough Estate Reserve Sauvignon Blanc Rosé (750 ml, 110 kr)",
+    "type": "rosé wine",
+    "score": 2.105,
+    "abv": 9.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Gravlax with mustard-dill sauce",
+  "expected": "fish",
+  "protein": "fish",
+  "scores": {
+   "fat": 0.5875,
+   "acidity": 0.3825,
+   "sweetness": 0.25,
+   "saltiness": 0.9675,
+   "spiciness": 0.0125,
+   "bitterness": 0.1025,
+   "confidence": 0.5636333333333333,
+   "protein": "fish"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FISH_AVOID_TANNIN",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "FISH_CRISP_WHITE",
+   "FISH_WHEAT_OR_PILSNER"
+  ],
+  "top3": [
+   {
+    "drink": "Kloster Eberbach Riesling Spätlese (750 ml, 169 kr)",
+    "type": "white wine",
+    "score": 2.196,
+    "abv": 7.5
+   },
+   {
+    "drink": "Bio Riesling (750 ml, 64 kr)",
+    "type": "sparkling wine",
+    "score": 2.061,
+    "abv": 12.5
+   },
+   {
+    "drink": "Marlborough Estate Reserve Sauvignon Blanc Rosé (750 ml, 110 kr)",
+    "type": "rosé wine",
+    "score": 1.693,
+    "abv": 9.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.6
+ },
+ {
+  "dish": "Pickled herring with sour cream, chives and potatoes",
+  "expected": "fish",
+  "protein": "fish",
+  "scores": {
+   "fat": 0.6625,
+   "acidity": 0.67,
+   "sweetness": 0.0675,
+   "saltiness": 0.855,
+   "spiciness": 0.0025,
+   "bitterness": 0.0975,
+   "confidence": 0.5999666666666665,
+   "protein": "fish"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "FISH_AVOID_TANNIN",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "ACID_MATCH",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "FISH_CRISP_WHITE",
+   "FISH_WHEAT_OR_PILSNER"
+  ],
+  "top3": [
+   {
+    "drink": "Leitz 60 Brut Nature (750 ml, 239 kr)",
+    "type": "sparkling wine",
+    "score": 3.084,
+    "abv": 12.0
+   },
+   {
+    "drink": "Arilds Vingård Solaris (750 ml, 202 kr)",
+    "type": "white wine",
+    "score": 3.084,
+    "abv": 12.5
+   },
+   {
+    "drink": "Marlborough Estate Reserve Sauvignon Blanc Rosé (750 ml, 110 kr)",
+    "type": "rosé wine",
+    "score": 2.651,
+    "abv": 9.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Shrimp sandwich, räksmörgås, with egg and mayonnaise",
+  "expected": "fish",
+  "protein": "fish",
+  "scores": {
+   "fat": 0.69,
+   "acidity": 0.255,
+   "sweetness": 0.1,
+   "saltiness": 0.57,
+   "spiciness": 0.005,
+   "bitterness": 0.0225,
+   "confidence": 0.5798333333333334,
+   "protein": "fish"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "FISH_AVOID_TANNIN",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "FISH_CRISP_WHITE",
+   "FISH_WHEAT_OR_PILSNER"
+  ],
+  "top3": [
+   {
+    "drink": "Twenty Acres by Bogle Chardonnay (750 ml, 149 kr)",
+    "type": "white wine",
+    "score": 2.403,
+    "abv": 14.0
+   },
+   {
+    "drink": "Domaine du Clos de l'Epinay Vouvray Cuvée Classique (750 ml, 150 kr)",
+    "type": "sparkling wine",
+    "score": 2.329,
+    "abv": 12.0
+   },
+   {
+    "drink": "Marlborough Estate Reserve Sauvignon Blanc Rosé (750 ml, 110 kr)",
+    "type": "rosé wine",
+    "score": 2.026,
+    "abv": 9.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Salmon sushi and tuna sashimi with soy and wasabi",
+  "expected": "fish",
+  "protein": "fish",
+  "scores": {
+   "fat": 0.485,
+   "acidity": 0.2875,
+   "sweetness": 0.0775,
+   "saltiness": 0.6425,
+   "spiciness": 0.1425,
+   "bitterness": 0.1725,
+   "confidence": 0.55215,
+   "protein": "fish"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FISH_AVOID_TANNIN",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "FISH_CRISP_WHITE",
+   "FISH_WHEAT_OR_PILSNER"
+  ],
+  "top3": [
+   {
+    "drink": "Bio Riesling (750 ml, 64 kr)",
+    "type": "sparkling wine",
+    "score": 1.906,
+    "abv": 12.5
+   },
+   {
+    "drink": "Ruppertsberger Hofstück Riesling (750 ml, 89 kr)",
+    "type": "white wine",
+    "score": 1.889,
+    "abv": 11.5
+   },
+   {
+    "drink": "Marlborough Estate Reserve Sauvignon Blanc Rosé (750 ml, 110 kr)",
+    "type": "rosé wine",
+    "score": 1.628,
+    "abv": 9.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Moules marinières, mussels in white wine and garlic",
+  "expected": "fish",
+  "protein": "fish",
+  "scores": {
+   "fat": 0.3525,
+   "acidity": 0.415,
+   "sweetness": 0.0425,
+   "saltiness": 0.5225,
+   "spiciness": 0.005,
+   "bitterness": 0.045,
+   "confidence": 0.7018,
+   "protein": "fish"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FISH_AVOID_TANNIN",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "FISH_CRISP_WHITE",
+   "FISH_WHEAT_OR_PILSNER"
+  ],
+  "top3": [
+   {
+    "drink": "LXRY Sparkling (750 ml, 89 kr)",
+    "type": "sparkling wine",
+    "score": 1.6,
+    "abv": 11.5
+   },
+   {
+    "drink": "Maison Blanche Sauvignon Blanc Chardonnay (750 ml, 99 kr)",
+    "type": "white wine",
+    "score": 1.6,
+    "abv": 12.5
+   },
+   {
+    "drink": "Hoegaarden Wit-Blanche (330 ml, 19.9 kr)",
+    "type": "beer",
+    "score": 1.534,
+    "abv": 4.9
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Cod loin with brown butter and horseradish",
+  "expected": "fish",
+  "protein": "fish",
+  "scores": {
+   "fat": 0.62,
+   "acidity": 0.1775,
+   "sweetness": 0.035,
+   "saltiness": 0.49,
+   "spiciness": 0.17,
+   "bitterness": 0.1325,
+   "confidence": 0.5764499999999999,
+   "protein": "fish"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "FISH_AVOID_TANNIN",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "FISH_CRISP_WHITE",
+   "FISH_WHEAT_OR_PILSNER"
+  ],
+  "top3": [
+   {
+    "drink": "Château Pont de Brion (750 ml, 189 kr)",
+    "type": "white wine",
+    "score": 2.39,
+    "abv": 13.0
+   },
+   {
+    "drink": "Domaine du Clos de l'Epinay Vouvray Cuvée Classique (750 ml, 150 kr)",
+    "type": "sparkling wine",
+    "score": 2.324,
+    "abv": 12.0
+   },
+   {
+    "drink": "Marlborough Estate Reserve Sauvignon Blanc Rosé (750 ml, 110 kr)",
+    "type": "rosé wine",
+    "score": 2.042,
+    "abv": 9.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Spicy Thai shrimp curry",
+  "expected": "fish",
+  "protein": "fish",
+  "scores": {
+   "fat": 0.6975,
+   "acidity": 0.4175,
+   "sweetness": 0.27,
+   "saltiness": 0.615,
+   "spiciness": 0.725,
+   "bitterness": 0.0725,
+   "confidence": 0.56375,
+   "protein": "fish"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "FISH_AVOID_TANNIN",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SPICE_LOW_ALCOHOL",
+   "SPICE_AVOID_BITTER",
+   "SPICE_SWEET",
+   "FAT_SPICE_BALANCE",
+   "SWEETNESS_IN_PROPORTION",
+   "SPICE_AROMATIC_WHITE"
+  ],
+  "top3": [
+   {
+    "drink": "Kloster Eberbach Riesling Spätlese (750 ml, 169 kr)",
+    "type": "white wine",
+    "score": 3.843,
+    "abv": 7.5
+   },
+   {
+    "drink": "Aviva Pink Gold (750 ml, 89 kr)",
+    "type": "sparkling wine",
+    "score": 3.371,
+    "abv": 5.5
+   },
+   {
+    "drink": "Cidre Fermier du Pays de Bray Moelleux (750 ml, 76 kr)",
+    "type": "cider",
+    "score": 3.271,
+    "abv": 4.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.6
+ },
+ {
+  "dish": "Oysters with lemon and shallot vinegar",
+  "expected": "fish",
+  "protein": "fish",
+  "scores": {
+   "fat": 0.125,
+   "acidity": 0.87,
+   "sweetness": 0.0325,
+   "saltiness": 0.585,
+   "spiciness": 0.0025,
+   "bitterness": 0.1075,
+   "confidence": 0.5413333333333333,
+   "protein": "fish"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FISH_AVOID_TANNIN",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "ACID_MATCH",
+   "SWEETNESS_IN_PROPORTION",
+   "FISH_CRISP_WHITE",
+   "FISH_WHEAT_OR_PILSNER"
+  ],
+  "top3": [
+   {
+    "drink": "50° Riesling Trocken (750 ml, 99 kr)",
+    "type": "white wine",
+    "score": 2.326,
+    "abv": 11.5
+   },
+   {
+    "drink": "Leitz 60 Brut Nature (750 ml, 239 kr)",
+    "type": "sparkling wine",
+    "score": 2.326,
+    "abv": 12.0
+   },
+   {
+    "drink": "Marlborough Estate Reserve Sauvignon Blanc Rosé (750 ml, 110 kr)",
+    "type": "rosé wine",
+    "score": 2.079,
+    "abv": 9.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Lobster with drawn butter",
+  "expected": "fish",
+  "protein": "fish",
+  "scores": {
+   "fat": 0.83,
+   "acidity": 0.19,
+   "sweetness": 0.1975,
+   "saltiness": 0.6025,
+   "spiciness": 0.0025,
+   "bitterness": 0.0075,
+   "confidence": 0.58855,
+   "protein": "fish"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "FISH_AVOID_TANNIN",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "FISH_CRISP_WHITE",
+   "FISH_WHEAT_OR_PILSNER"
+  ],
+  "top3": [
+   {
+    "drink": "Kloster Eberbach Riesling Spätlese (750 ml, 169 kr)",
+    "type": "white wine",
+    "score": 2.497,
+    "abv": 7.5
+   },
+   {
+    "drink": "Leitz 60 Brut Nature (750 ml, 239 kr)",
+    "type": "sparkling wine",
+    "score": 2.42,
+    "abv": 12.0
+   },
+   {
+    "drink": "Marlborough Estate Reserve Sauvignon Blanc Rosé (750 ml, 110 kr)",
+    "type": "rosé wine",
+    "score": 2.067,
+    "abv": 9.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Fish tacos with lime crema and cabbage",
+  "expected": "fish",
+  "protein": "fish",
+  "scores": {
+   "fat": 0.4425,
+   "acidity": 0.56,
+   "sweetness": 0.0725,
+   "saltiness": 0.4875,
+   "spiciness": 0.0525,
+   "bitterness": 0.1575,
+   "confidence": 0.6097,
+   "protein": "fish"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FISH_AVOID_TANNIN",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "ACID_MATCH",
+   "SWEETNESS_IN_PROPORTION",
+   "FISH_CRISP_WHITE",
+   "FISH_WHEAT_OR_PILSNER"
+  ],
+  "top3": [
+   {
+    "drink": "50° Riesling Trocken (750 ml, 99 kr)",
+    "type": "white wine",
+    "score": 2.067,
+    "abv": 11.5
+   },
+   {
+    "drink": "Leitz 60 Brut Nature (750 ml, 239 kr)",
+    "type": "sparkling wine",
+    "score": 2.067,
+    "abv": 12.0
+   },
+   {
+    "drink": "Marlborough Estate Reserve Sauvignon Blanc Rosé (750 ml, 110 kr)",
+    "type": "rosé wine",
+    "score": 1.873,
+    "abv": 9.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Seafood paella with saffron",
+  "expected": "fish",
+  "protein": "fish",
+  "scores": {
+   "fat": 0.43,
+   "acidity": 0.1475,
+   "sweetness": 0.0375,
+   "saltiness": 0.5275,
+   "spiciness": 0.0125,
+   "bitterness": 0.08,
+   "confidence": 0.6249833333333333,
+   "protein": "fish"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FISH_AVOID_TANNIN",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "FISH_CRISP_WHITE",
+   "FISH_WHEAT_OR_PILSNER"
+  ],
+  "top3": [
+   {
+    "drink": "Spring Village Chardonnay (750 ml, 89 kr)",
+    "type": "white wine",
+    "score": 1.6,
+    "abv": 12.5
+   },
+   {
+    "drink": "LXRY Sparkling (750 ml, 89 kr)",
+    "type": "sparkling wine",
+    "score": 1.6,
+    "abv": 11.5
+   },
+   {
+    "drink": "Hoegaarden Wit-Blanche (330 ml, 19.9 kr)",
+    "type": "beer",
+    "score": 1.534,
+    "abv": 4.9
+   }
+  ],
+  "flags": [],
+  "seconds": 0.4
+ },
+ {
+  "dish": "Grilled tuna steak with soy and ginger",
+  "expected": "fish",
+  "protein": "fish",
+  "scores": {
+   "fat": 0.255,
+   "acidity": 0.115,
+   "sweetness": 0.2075,
+   "saltiness": 0.7875,
+   "spiciness": 0.135,
+   "bitterness": 0.1025,
+   "confidence": 0.5559999999999999,
+   "protein": "fish"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FISH_AVOID_TANNIN",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "FISH_CRISP_WHITE",
+   "FISH_WHEAT_OR_PILSNER"
+  ],
+  "top3": [
+   {
+    "drink": "Moselland Riesling Spätlese (750 ml, 89 kr)",
+    "type": "white wine",
+    "score": 2.02,
+    "abv": 8.5
+   },
+   {
+    "drink": "Bio Riesling (750 ml, 64 kr)",
+    "type": "sparkling wine",
+    "score": 1.976,
+    "abv": 12.5
+   },
+   {
+    "drink": "Marlborough Estate Reserve Sauvignon Blanc Rosé (750 ml, 110 kr)",
+    "type": "rosé wine",
+    "score": 1.657,
+    "abv": 9.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Crayfish party, kräftskiva, boiled crayfish with dill",
+  "expected": "fish",
+  "protein": "fish",
+  "scores": {
+   "fat": 0.085,
+   "acidity": 0.145,
+   "sweetness": 0.115,
+   "saltiness": 0.57,
+   "spiciness": 0.005,
+   "bitterness": 0.03,
+   "confidence": 0.5459333333333334,
+   "protein": "fish"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FISH_AVOID_TANNIN",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "FISH_CRISP_WHITE",
+   "FISH_WHEAT_OR_PILSNER"
+  ],
+  "top3": [
+   {
+    "drink": "Maison Petit Perle Blanc (750 ml, 109 kr)",
+    "type": "white wine",
+    "score": 1.6,
+    "abv": 12.5
+   },
+   {
+    "drink": "Sander Prestige Cuvée Riesling Brut (750 ml, 179 kr)",
+    "type": "sparkling wine",
+    "score": 1.6,
+    "abv": 11.5
+   },
+   {
+    "drink": "1664 Blanc (330 ml, 19.2 kr)",
+    "type": "beer",
+    "score": 1.534,
+    "abv": 5.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Toast Skagen, shrimp in mayonnaise on toast with roe",
+  "expected": "fish",
+  "protein": "fish",
+  "scores": {
+   "fat": 0.7775,
+   "acidity": 0.2275,
+   "sweetness": 0.095,
+   "saltiness": 0.6325,
+   "spiciness": 0.005,
+   "bitterness": 0.0175,
+   "confidence": 0.6819833333333333,
+   "protein": "fish"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "FISH_AVOID_TANNIN",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "FISH_CRISP_WHITE",
+   "FISH_WHEAT_OR_PILSNER"
+  ],
+  "top3": [
+   {
+    "drink": "Kloster Eberbach Riesling Kabinett (750 ml, 139 kr)",
+    "type": "white wine",
+    "score": 2.472,
+    "abv": 7.5
+   },
+   {
+    "drink": "Leitz 60 Brut Nature (750 ml, 239 kr)",
+    "type": "sparkling wine",
+    "score": 2.451,
+    "abv": 12.0
+   },
+   {
+    "drink": "Marlborough Estate Reserve Sauvignon Blanc Rosé (750 ml, 110 kr)",
+    "type": "rosé wine",
+    "score": 2.11,
+    "abv": 9.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.6
+ },
+ {
+  "dish": "Ceviche of white fish with lime and chili",
+  "expected": "fish",
+  "protein": "fish",
+  "scores": {
+   "fat": 0.0225,
+   "acidity": 0.9825,
+   "sweetness": 0.015,
+   "saltiness": 0.42,
+   "spiciness": 0.4225,
+   "bitterness": 0.0825,
+   "confidence": 0.7023333333333334,
+   "protein": "fish"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FISH_AVOID_TANNIN",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "ACID_MATCH",
+   "SWEETNESS_IN_PROPORTION",
+   "FISH_CRISP_WHITE",
+   "FISH_WHEAT_OR_PILSNER"
+  ],
+  "top3": [
+   {
+    "drink": "50° Riesling Trocken (750 ml, 99 kr)",
+    "type": "white wine",
+    "score": 2.419,
+    "abv": 11.5
+   },
+   {
+    "drink": "Leitz 60 Brut Nature (750 ml, 239 kr)",
+    "type": "sparkling wine",
+    "score": 2.419,
+    "abv": 12.0
+   },
+   {
+    "drink": "Marlborough Estate Reserve Sauvignon Blanc Rosé (750 ml, 110 kr)",
+    "type": "rosé wine",
+    "score": 2.154,
+    "abv": 9.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Smoked mackerel salad with beetroot",
+  "expected": "fish",
+  "protein": "fish",
+  "scores": {
+   "fat": 0.67,
+   "acidity": 0.41,
+   "sweetness": 0.2775,
+   "saltiness": 0.735,
+   "spiciness": 0.0075,
+   "bitterness": 0.1825,
+   "confidence": 0.5236000000000001,
+   "protein": "fish"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "FISH_AVOID_TANNIN",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "FISH_CRISP_WHITE",
+   "FISH_WHEAT_OR_PILSNER"
+  ],
+  "top3": [
+   {
+    "drink": "Kloster Eberbach Riesling Spätlese (750 ml, 169 kr)",
+    "type": "white wine",
+    "score": 2.763,
+    "abv": 7.5
+   },
+   {
+    "drink": "Bio Riesling (750 ml, 64 kr)",
+    "type": "sparkling wine",
+    "score": 2.501,
+    "abv": 12.5
+   },
+   {
+    "drink": "Marlborough Estate Reserve Sauvignon Blanc Rosé (750 ml, 110 kr)",
+    "type": "rosé wine",
+    "score": 2.179,
+    "abv": 9.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Creamy fish soup with saffron",
+  "expected": "fish",
+  "protein": "fish",
+  "scores": {
+   "fat": 0.6675,
+   "acidity": 0.055,
+   "sweetness": 0.0525,
+   "saltiness": 0.4975,
+   "spiciness": 0.01,
+   "bitterness": 0.025,
+   "confidence": 0.6400999999999999,
+   "protein": "fish"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "FISH_AVOID_TANNIN",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "FISH_CRISP_WHITE",
+   "FISH_WHEAT_OR_PILSNER"
+  ],
+  "top3": [
+   {
+    "drink": "Twenty Acres by Bogle Chardonnay (750 ml, 149 kr)",
+    "type": "white wine",
+    "score": 2.4,
+    "abv": 14.0
+   },
+   {
+    "drink": "Mulderbosch Sparkling Chenin Blanc (750 ml, 119 kr)",
+    "type": "sparkling wine",
+    "score": 2.329,
+    "abv": 13.0
+   },
+   {
+    "drink": "Marlborough Estate Reserve Sauvignon Blanc Rosé (750 ml, 110 kr)",
+    "type": "rosé wine",
+    "score": 2.032,
+    "abv": 9.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Fried perch with remoulade",
+  "expected": "fish",
+  "protein": "fish",
+  "scores": {
+   "fat": 0.7275,
+   "acidity": 0.395,
+   "sweetness": 0.11,
+   "saltiness": 0.535,
+   "spiciness": 0.0425,
+   "bitterness": 0.05,
+   "confidence": 0.5443333333333332,
+   "protein": "fish"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "FISH_AVOID_TANNIN",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "FISH_CRISP_WHITE",
+   "FISH_WHEAT_OR_PILSNER"
+  ],
+  "top3": [
+   {
+    "drink": "Twenty Acres by Bogle Chardonnay (750 ml, 149 kr)",
+    "type": "white wine",
+    "score": 2.403,
+    "abv": 14.0
+   },
+   {
+    "drink": "Von Buhl Riesling Sekt Brut (750 ml, 199 kr)",
+    "type": "sparkling wine",
+    "score": 2.325,
+    "abv": 12.0
+   },
+   {
+    "drink": "Marlborough Estate Reserve Sauvignon Blanc Rosé (750 ml, 110 kr)",
+    "type": "rosé wine",
+    "score": 2.01,
+    "abv": 9.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.6
+ },
+ {
+  "dish": "Mushroom risotto with parmesan",
+  "expected": "vegetarian",
+  "protein": "vegetarian",
+  "scores": {
+   "fat": 0.695,
+   "acidity": 0.12,
+   "sweetness": 0.035,
+   "saltiness": 0.545,
+   "spiciness": 0.0025,
+   "bitterness": 0.07,
+   "confidence": 0.6370000000000001,
+   "protein": "vegetarian"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION"
+  ],
+  "top3": [
+   {
+    "drink": "Viberti Derthona Timorasso (750 ml, 219 kr)",
+    "type": "white wine",
+    "score": 1.922,
+    "abv": 12.5
+   },
+   {
+    "drink": "El Mar Cava Rosé Brut (750 ml, 98 kr)",
+    "type": "sparkling wine",
+    "score": 1.848,
+    "abv": 11.5
+   },
+   {
+    "drink": "Pomsi Äpplecider (330 ml, 34.9 kr)",
+    "type": "cider",
+    "score": 1.761,
+    "abv": 4.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Margherita pizza with tomato, mozzarella and basil",
+  "expected": "vegetarian",
+  "protein": "vegetarian",
+  "scores": {
+   "fat": 0.53,
+   "acidity": 0.3625,
+   "sweetness": 0.1475,
+   "saltiness": 0.5025,
+   "spiciness": 0.0025,
+   "bitterness": 0.0875,
+   "confidence": 0.7084,
+   "protein": "vegetarian"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION"
+  ],
+  "top3": [
+   {
+    "drink": "Stoneleigh Riesling (750 ml, 119 kr)",
+    "type": "white wine",
+    "score": 1.12,
+    "abv": 11.0
+   },
+   {
+    "drink": "Dominio Alto Cava Brut Organic (750 ml, 89 kr)",
+    "type": "sparkling wine",
+    "score": 1.12,
+    "abv": 11.5
+   },
+   {
+    "drink": "El Gaitero Cider Pear (750 ml, 79.3 kr)",
+    "type": "cider",
+    "score": 1.12,
+    "abv": 4.1
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Pancakes with whipped cream and strawberry jam",
+  "expected": "vegetarian",
+  "protein": "vegetarian",
+  "scores": {
+   "fat": 0.67,
+   "acidity": 0.1825,
+   "sweetness": 0.9575,
+   "saltiness": 0.155,
+   "spiciness": 0.0,
+   "bitterness": 0.0075,
+   "confidence": 0.7069333333333333,
+   "protein": "vegetarian"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEET_MATCH",
+   "SWEET_AVOID_BITTER",
+   "SWEETNESS_IN_PROPORTION"
+  ],
+  "top3": [
+   {
+    "drink": "Korrell Beerenauslese (375 ml, 200 kr)",
+    "type": "dessert wine",
+    "score": 3.223,
+    "abv": 6.0
+   },
+   {
+    "drink": "Briska Passionfrukt & Persika (330 ml, 16.5 kr)",
+    "type": "cider",
+    "score": 3.21,
+    "abv": 4.5
+   },
+   {
+    "drink": "Asti Martini (750 ml, 99 kr)",
+    "type": "sparkling wine",
+    "score": 2.935,
+    "abv": 7.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Chocolate fondant with vanilla ice cream",
+  "expected": "vegetarian",
+  "protein": "vegetarian",
+  "scores": {
+   "fat": 0.8925,
+   "acidity": 0.02,
+   "sweetness": 1.0,
+   "saltiness": 0.0925,
+   "spiciness": 0.0,
+   "bitterness": 0.1975,
+   "confidence": 0.7168333333333332,
+   "protein": "vegetarian"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEET_MATCH",
+   "SWEET_AVOID_BITTER",
+   "SWEETNESS_IN_PROPORTION"
+  ],
+  "top3": [
+   {
+    "drink": "Nederburg Noble Late Harvest (375 ml, 130 kr)",
+    "type": "dessert wine",
+    "score": 3.266,
+    "abv": 8.5
+   },
+   {
+    "drink": "Briska Passionfrukt & Persika (330 ml, 16.5 kr)",
+    "type": "cider",
+    "score": 3.143,
+    "abv": 4.5
+   },
+   {
+    "drink": "Asti Martini (750 ml, 99 kr)",
+    "type": "sparkling wine",
+    "score": 2.874,
+    "abv": 7.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Spicy chickpea and spinach curry",
+  "expected": "vegetarian",
+  "protein": "vegetarian",
+  "scores": {
+   "fat": 0.4075,
+   "acidity": 0.26,
+   "sweetness": 0.1175,
+   "saltiness": 0.51,
+   "spiciness": 0.5825,
+   "bitterness": 0.2475,
+   "confidence": 0.6162000000000001,
+   "protein": "vegetarian"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SPICE_LOW_ALCOHOL",
+   "SPICE_AVOID_BITTER",
+   "SPICE_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "SPICE_AROMATIC_WHITE"
+  ],
+  "top3": [
+   {
+    "drink": "Dryg cider Lagom Dryg (250 ml, 27.2 kr)",
+    "type": "cider",
+    "score": 1.822,
+    "abv": 4.2
+   },
+   {
+    "drink": "Weingut Dr. Hermann Wehlener Sonneuhr Riesling Kabinett (750 ml, 229 kr)",
+    "type": "white wine",
+    "score": 1.643,
+    "abv": 8.0
+   },
+   {
+    "drink": "Hoegaarden Wit-Blanche (330 ml, 19.9 kr)",
+    "type": "beer",
+    "score": 1.407,
+    "abv": 4.9
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Greek salad with feta and olives",
+  "expected": "vegetarian",
+  "protein": "vegetarian",
+  "scores": {
+   "fat": 0.5725,
+   "acidity": 0.495,
+   "sweetness": 0.06,
+   "saltiness": 0.7725,
+   "spiciness": 0.0025,
+   "bitterness": 0.19,
+   "confidence": 0.6845999999999999,
+   "protein": "vegetarian"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION"
+  ],
+  "top3": [
+   {
+    "drink": "TiCa Secco Semi-Sparkling White Wine (200 ml, 44 kr)",
+    "type": "sparkling wine",
+    "score": 1.46,
+    "abv": 10.5
+   },
+   {
+    "drink": "Deep Roots Riesling (750 ml, 99 kr)",
+    "type": "white wine",
+    "score": 1.338,
+    "abv": 8.0
+   },
+   {
+    "drink": "Glömda Äpplen Härcider (750 ml, 99.3 kr)",
+    "type": "cider",
+    "score": 1.313,
+    "abv": 6.1
+   }
+  ],
+  "flags": [],
+  "seconds": 0.3
+ },
+ {
+  "dish": "Cheese fondue with bread",
+  "expected": "vegetarian",
+  "protein": "vegetarian",
+  "scores": {
+   "fat": 0.905,
+   "acidity": 0.2475,
+   "sweetness": 0.0075,
+   "saltiness": 0.6425,
+   "spiciness": 0.005,
+   "bitterness": 0.0325,
+   "confidence": 0.5798333333333332,
+   "protein": "vegetarian"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION"
+  ],
+  "top3": [
+   {
+    "drink": "Viberti Derthona Timorasso (750 ml, 219 kr)",
+    "type": "white wine",
+    "score": 1.934,
+    "abv": 12.5
+   },
+   {
+    "drink": "Ruida Domo Cava Brut Nature (750 ml, 99 kr)",
+    "type": "sparkling wine",
+    "score": 1.856,
+    "abv": 11.5
+   },
+   {
+    "drink": "Pomsi Äpplecider (330 ml, 34.9 kr)",
+    "type": "cider",
+    "score": 1.778,
+    "abv": 4.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Falafel with hummus and pickled vegetables",
+  "expected": "vegetarian",
+  "protein": "vegetarian",
+  "scores": {
+   "fat": 0.5375,
+   "acidity": 0.56,
+   "sweetness": 0.035,
+   "saltiness": 0.67,
+   "spiciness": 0.115,
+   "bitterness": 0.1925,
+   "confidence": 0.5685166666666667,
+   "protein": "vegetarian"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "ACID_MATCH",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION",
+   "ACID_DISH_ITALIAN_RED"
+  ],
+  "top3": [
+   {
+    "drink": "Åhus Solaris (500 ml, 187 kr)",
+    "type": "white wine",
+    "score": 1.755,
+    "abv": 12.0
+   },
+   {
+    "drink": "Glömda Äpplen Härcider (750 ml, 99.3 kr)",
+    "type": "cider",
+    "score": 1.755,
+    "abv": 6.1
+   },
+   {
+    "drink": "TiCa Secco Semi-Sparkling White Wine (200 ml, 44 kr)",
+    "type": "sparkling wine",
+    "score": 1.592,
+    "abv": 10.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Apple pie with vanilla custard",
+  "expected": "vegetarian",
+  "protein": "vegetarian",
+  "scores": {
+   "fat": 0.7075,
+   "acidity": 0.2325,
+   "sweetness": 0.995,
+   "saltiness": 0.1275,
+   "spiciness": 0.02,
+   "bitterness": 0.0175,
+   "confidence": 0.6997333333333333,
+   "protein": "vegetarian"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEET_MATCH",
+   "SWEET_AVOID_BITTER",
+   "SWEETNESS_IN_PROPORTION"
+  ],
+  "top3": [
+   {
+    "drink": "Korrell Beerenauslese (375 ml, 200 kr)",
+    "type": "dessert wine",
+    "score": 3.292,
+    "abv": 6.0
+   },
+   {
+    "drink": "Briska Passionfrukt & Persika (330 ml, 16.5 kr)",
+    "type": "cider",
+    "score": 3.273,
+    "abv": 4.5
+   },
+   {
+    "drink": "Asti Martini (750 ml, 99 kr)",
+    "type": "sparkling wine",
+    "score": 2.988,
+    "abv": 7.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Mac and cheese with cheddar",
+  "expected": "vegetarian",
+  "protein": "vegetarian",
+  "scores": {
+   "fat": 0.81,
+   "acidity": 0.17,
+   "sweetness": 0.0175,
+   "saltiness": 0.605,
+   "spiciness": 0.0025,
+   "bitterness": 0.0275,
+   "confidence": 0.7,
+   "protein": "vegetarian"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION"
+  ],
+  "top3": [
+   {
+    "drink": "Viberti Derthona Timorasso (750 ml, 219 kr)",
+    "type": "white wine",
+    "score": 1.975,
+    "abv": 12.5
+   },
+   {
+    "drink": "El Mar Cava Rosé Brut (750 ml, 98 kr)",
+    "type": "sparkling wine",
+    "score": 1.906,
+    "abv": 11.5
+   },
+   {
+    "drink": "Pomsi Äpplecider (330 ml, 34.9 kr)",
+    "type": "cider",
+    "score": 1.838,
+    "abv": 4.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.4
+ },
+ {
+  "dish": "Vegetable pad thai with tofu and peanuts",
+  "expected": "vegetarian",
+  "protein": "vegetarian",
+  "scores": {
+   "fat": 0.5225,
+   "acidity": 0.445,
+   "sweetness": 0.4675,
+   "saltiness": 0.6175,
+   "spiciness": 0.2275,
+   "bitterness": 0.0825,
+   "confidence": 0.5538,
+   "protein": "vegetarian"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION"
+  ],
+  "top3": [
+   {
+    "drink": "Weingut Dr. Hermann Wehlener Sonneuhr Riesling Kabinett (750 ml, 229 kr)",
+    "type": "white wine",
+    "score": 1.449,
+    "abv": 8.0
+   },
+   {
+    "drink": "Cidre Fermier du Pays de Bray Moelleux (750 ml, 76 kr)",
+    "type": "cider",
+    "score": 1.418,
+    "abv": 4.0
+   },
+   {
+    "drink": "TiCa Secco Semi-Sparkling White Wine (200 ml, 44 kr)",
+    "type": "sparkling wine",
+    "score": 1.415,
+    "abv": 10.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.5
+ },
+ {
+  "dish": "Eggplant parmigiana",
+  "expected": "vegetarian",
+  "protein": "vegetarian",
+  "scores": {
+   "fat": 0.755,
+   "acidity": 0.3575,
+   "sweetness": 0.1675,
+   "saltiness": 0.5675,
+   "spiciness": 0.0225,
+   "bitterness": 0.215,
+   "confidence": 0.4620666666666667,
+   "protein": "vegetarian"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION"
+  ],
+  "top3": [
+   {
+    "drink": "Viberti Derthona Timorasso (750 ml, 219 kr)",
+    "type": "white wine",
+    "score": 1.918,
+    "abv": 12.5
+   },
+   {
+    "drink": "El Mar Cava Rosé Brut (750 ml, 98 kr)",
+    "type": "sparkling wine",
+    "score": 1.839,
+    "abv": 11.5
+   },
+   {
+    "drink": "Pomsi Äpplecider (330 ml, 34.9 kr)",
+    "type": "cider",
+    "score": 1.743,
+    "abv": 4.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.4
+ },
+ {
+  "dish": "Goat cheese salad with walnuts, honey and beetroot",
+  "expected": "vegetarian",
+  "protein": "vegetarian",
+  "scores": {
+   "fat": 0.585,
+   "acidity": 0.3625,
+   "sweetness": 0.4025,
+   "saltiness": 0.4725,
+   "spiciness": 0.0025,
+   "bitterness": 0.205,
+   "confidence": 0.6142000000000001,
+   "protein": "vegetarian"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION"
+  ],
+  "top3": [
+   {
+    "drink": "CHILL OUT Sauvignon Blanc Semillon (750 ml, 95 kr)",
+    "type": "white wine",
+    "score": 1.12,
+    "abv": 12.5
+   },
+   {
+    "drink": "Langlois Crémant de Loire Brut Réserve (750 ml, 199 kr)",
+    "type": "sparkling wine",
+    "score": 1.12,
+    "abv": 12.5
+   },
+   {
+    "drink": "El Gaitero Cider Pear (750 ml, 79.3 kr)",
+    "type": "cider",
+    "score": 1.12,
+    "abv": 4.1
+   }
+  ],
+  "flags": [],
+  "seconds": 0.3
+ },
+ {
+  "dish": "Lentil dal with rice",
+  "expected": "vegetarian",
+  "protein": "vegetarian",
+  "scores": {
+   "fat": 0.2875,
+   "acidity": 0.155,
+   "sweetness": 0.0275,
+   "saltiness": 0.495,
+   "spiciness": 0.2725,
+   "bitterness": 0.03,
+   "confidence": 0.52395,
+   "protein": "vegetarian"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION",
+   "LIGHT_DISH_LIGHT_DRINK"
+  ],
+  "top3": [
+   {
+    "drink": "Chouette Poire Blanc (750 ml, 79 kr)",
+    "type": "cider",
+    "score": 1.61,
+    "abv": 4.0
+   },
+   {
+    "drink": "Hoegaarden Wit-Blanche (330 ml, 19.9 kr)",
+    "type": "beer",
+    "score": 1.521,
+    "abv": 4.9
+   },
+   {
+    "drink": "Petite Faiblesse Sauvignon Blanc (750 ml, 99 kr)",
+    "type": "white wine",
+    "score": 1.41,
+    "abv": 9.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.2
+ },
+ {
+  "dish": "Princess cake, prinsesstårta, with marzipan and cream",
+  "expected": "vegetarian",
+  "protein": "vegetarian",
+  "scores": {
+   "fat": 0.8275,
+   "acidity": 0.0875,
+   "sweetness": 0.995,
+   "saltiness": 0.075,
+   "spiciness": 0.0,
+   "bitterness": 0.03,
+   "confidence": 0.5915,
+   "protein": "vegetarian"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEET_MATCH",
+   "SWEET_AVOID_BITTER",
+   "SWEETNESS_IN_PROPORTION"
+  ],
+  "top3": [
+   {
+    "drink": "Nederburg Noble Late Harvest (375 ml, 130 kr)",
+    "type": "dessert wine",
+    "score": 3.281,
+    "abv": 8.5
+   },
+   {
+    "drink": "Briska Passionfrukt & Persika (330 ml, 16.5 kr)",
+    "type": "cider",
+    "score": 3.194,
+    "abv": 4.5
+   },
+   {
+    "drink": "Asti Martini (750 ml, 99 kr)",
+    "type": "sparkling wine",
+    "score": 2.921,
+    "abv": 7.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.3
+ },
+ {
+  "dish": "Grilled halloumi with watermelon and mint",
+  "expected": "vegetarian",
+  "protein": "vegetarian",
+  "scores": {
+   "fat": 0.62,
+   "acidity": 0.2525,
+   "sweetness": 0.4575,
+   "saltiness": 0.8425,
+   "spiciness": 0.0025,
+   "bitterness": 0.1275,
+   "confidence": 0.58185,
+   "protein": "vegetarian"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "SWEETNESS_IN_PROPORTION"
+  ],
+  "top3": [
+   {
+    "drink": "Weingut Dr. Hermann Wehlener Sonneuhr Riesling Kabinett (750 ml, 229 kr)",
+    "type": "white wine",
+    "score": 2.194,
+    "abv": 8.0
+   },
+   {
+    "drink": "Grand Tokaj Szamorodni (500 ml, 169 kr)",
+    "type": "dessert wine",
+    "score": 2.169,
+    "abv": 10.0
+   },
+   {
+    "drink": "Monte Santi Fruttisecco Pineapple (750 ml, 90 kr)",
+    "type": "sparkling wine",
+    "score": 2.127,
+    "abv": 8.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.3
+ },
+ {
+  "dish": "Radicchio and endive salad with blue cheese",
+  "expected": "vegetarian",
+  "protein": "vegetarian",
+  "scores": {
+   "fat": 0.5,
+   "acidity": 0.395,
+   "sweetness": 0.0275,
+   "saltiness": 0.665,
+   "spiciness": 0.0025,
+   "bitterness": 0.73,
+   "confidence": 0.6418666666666666,
+   "protein": "vegetarian"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SALT_ACID",
+   "SALT_SWEET",
+   "BITTER_AVOID_BITTER",
+   "BITTER_SWEET",
+   "SWEETNESS_IN_PROPORTION"
+  ],
+  "top3": [
+   {
+    "drink": "TiCa Secco Semi-Sparkling White Wine (200 ml, 44 kr)",
+    "type": "sparkling wine",
+    "score": 1.888,
+    "abv": 10.5
+   },
+   {
+    "drink": "Vistakulles Halvtorra Cider Äpple (330 ml, 38.8 kr)",
+    "type": "cider",
+    "score": 1.834,
+    "abv": 4.5
+   },
+   {
+    "drink": "WOW Riesling (750 ml, 121 kr)",
+    "type": "white wine",
+    "score": 1.819,
+    "abv": 12.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.4
+ },
+ {
+  "dish": "Spinach and ricotta cannelloni",
+  "expected": "vegetarian",
+  "protein": "vegetarian",
+  "scores": {
+   "fat": 0.6,
+   "acidity": 0.25,
+   "sweetness": 0.035,
+   "saltiness": 0.5075,
+   "spiciness": 0.005,
+   "bitterness": 0.185,
+   "confidence": 0.5290666666666667,
+   "protein": "vegetarian"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION"
+  ],
+  "top3": [
+   {
+    "drink": "Viberti Derthona Timorasso (750 ml, 219 kr)",
+    "type": "white wine",
+    "score": 1.903,
+    "abv": 12.5
+   },
+   {
+    "drink": "El Mar Cava Rosé Brut (750 ml, 98 kr)",
+    "type": "sparkling wine",
+    "score": 1.84,
+    "abv": 11.5
+   },
+   {
+    "drink": "Pomsi Äpplecider (330 ml, 34.9 kr)",
+    "type": "cider",
+    "score": 1.764,
+    "abv": 4.5
+   }
+  ],
+  "flags": [],
+  "seconds": 0.3
+ },
+ {
+  "dish": "Lemon tart with meringue",
+  "expected": "vegetarian",
+  "protein": "vegetarian",
+  "scores": {
+   "fat": 0.6175,
+   "acidity": 0.7025,
+   "sweetness": 0.9675,
+   "saltiness": 0.105,
+   "spiciness": 0.0,
+   "bitterness": 0.21,
+   "confidence": 0.6031666666666666,
+   "protein": "vegetarian"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "FAT_CUT",
+   "FAT_MATCH_BODY",
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "ACID_MATCH",
+   "SWEET_MATCH",
+   "SWEET_AVOID_BITTER",
+   "SWEETNESS_IN_PROPORTION"
+  ],
+  "top3": [
+   {
+    "drink": "Korrell Beerenauslese (375 ml, 200 kr)",
+    "type": "dessert wine",
+    "score": 3.698,
+    "abv": 6.0
+   },
+   {
+    "drink": "Briska Passionfrukt & Persika (330 ml, 16.5 kr)",
+    "type": "cider",
+    "score": 3.596,
+    "abv": 4.5
+   },
+   {
+    "drink": "Asti Martini (750 ml, 99 kr)",
+    "type": "sparkling wine",
+    "score": 3.196,
+    "abv": 7.0
+   }
+  ],
+  "flags": [],
+  "seconds": 0.4
+ },
+ {
+  "dish": "Vegan black bean burger with chipotle mayo",
+  "expected": "vegetarian",
+  "protein": "vegetarian",
+  "scores": {
+   "fat": 0.5775,
+   "acidity": 0.27,
+   "sweetness": 0.12,
+   "saltiness": 0.5975,
+   "spiciness": 0.375,
+   "bitterness": 0.1,
+   "confidence": 0.5105999999999999,
+   "protein": "vegetarian"
+  },
+  "status": "ok",
+  "fired_rules": [
+   "LIGHT_PROTEIN_AVOID_HEAVY",
+   "SYSTEMBOLAGET_SUGGESTS",
+   "SWEETNESS_IN_PROPORTION"
+  ],
+  "top3": [
+   {
+    "drink": "Nigiri Sauvignon Blanc (750 ml, 109 kr)",
+    "type": "white wine",
+    "score": 1.12,
+    "abv": 12.5
+   },
+   {
+    "drink": "Clotilde Davenne Brut Extra Crémant de Bourgogne (750 ml, 179 kr)",
+    "type": "sparkling wine",
+    "score": 1.12,
+    "abv": 12.0
+   },
+   {
+    "drink": "El Gaitero Cider Pear (750 ml, 79.3 kr)",
+    "type": "cider",
+    "score": 1.12,
+    "abv": 4.1
+   }
+  ],
+  "flags": [],
+  "seconds": 0.3
+ }
+]

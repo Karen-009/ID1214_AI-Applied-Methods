@@ -4,16 +4,14 @@ Every drink is described on six attributes, each scored 0-1:
 
     sweetness    residual sugar / perceived sweetness
     acidity      perceived sourness / freshness
-    bitterness   tannin (wine) or hop bitterness (beer) -- both add
-                 bitter/astringent sensations that react the same way
-                 to spicy, sweet and bitter food
+    bitterness   tannin (wine) or hop bitterness (beer); both react
+                 the same way to spicy, sweet and bitter food
     body         weight and intensity in the mouth
     alcohol      0 = alcohol-free, 1 = about 15 % ABV or more
     carbonation  0 = still, 1 = very sparkling
 
 The values are hand-assigned estimates based on typical style
-descriptions (see SOURCES.md). They are a first version and should be
-reviewed and adjusted as testing shows where they are off.
+descriptions (see SOURCES.md).
 """
 
 ATTRIBUTES = ("sweetness", "acidity", "bitterness", "body", "alcohol", "carbonation")

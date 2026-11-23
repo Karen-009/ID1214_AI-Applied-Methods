@@ -7,5 +7,6 @@ __pycache__/
 .venv/
 venv/
 
-# Model files (large; share them outside git)
-models/
+# Systembolaget catalogue, built by fetch_systembolaget.py
+data/*.db
+data/*.db-*

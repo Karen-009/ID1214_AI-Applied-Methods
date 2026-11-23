@@ -32,10 +32,10 @@ class JevTests(unittest.TestCase):
         self.assertEqual(_validate(full)["fat"], 1.0)
 
     def test_typesafe_backend_refuses_placeholder(self):
-        import os
-        os.environ["TYPESAFE_API_KEY"] = "REPLACE_ME"
-        with self.assertRaises(RuntimeError):
-            Jev(backend="typesafe")
+        from unittest import mock
+        with mock.patch.dict("os.environ", {"JEV_API_KEY": "REPLACE_ME"}):
+            with self.assertRaises(RuntimeError):
+                Jev(backend="typesafe")
 
     def test_typesafe_request_shape(self):
         from pairing.jev import _TypeSafeBackend, LEVELS
@@ -59,6 +59,31 @@ class JevTests(unittest.TestCase):
         self.assertAlmostEqual(scores["fat"], 0.75)
         self.assertAlmostEqual(scores["spiciness"], 0.0)
         self.assertAlmostEqual(scores["confidence"], 0.4)
+
+    def test_mock_protein(self):
+        self.assertEqual(self.jev.score("ribeye steak")["protein"], "red meat")
+        self.assertEqual(self.jev.score("grilled salmon")["protein"], "fish")
+        self.assertEqual(self.jev.score("grandma's special")["protein"], "unknown")
+
+    def test_typesafe_protein_question_and_parsing(self):
+        from pairing.jev import _TypeSafeBackend, LEVELS, PROTEINS
+        body = _TypeSafeBackend.build_request("salmon", "jev-latest")
+        self.assertEqual(body["questions"]["protein_red_meat"]["type"], "noul")
+        answers = {t: {"type": "score", "score": 2.0, "confidence": 0.9} for t in LEVELS}
+        answers["clear"] = {"type": "noul", "noul": 0.9}
+        for p in PROTEINS:
+            answers["protein_" + p.replace(" ", "_")] = {"type": "noul", "noul": 0.1}
+        answers["protein_fish"]["noul"] = 0.95
+        parse = lambda: _validate(_TypeSafeBackend.parse_response({"answers": answers}))
+        self.assertEqual(parse()["protein"], "fish")
+        answers["protein_fish"]["noul"] = 0.3  # nothing is likely enough
+        self.assertEqual(parse()["protein"], "unknown")
+
+    def test_validate_defaults_protein(self):
+        full = {k: 0.5 for k in ("fat", "acidity", "sweetness", "saltiness",
+                                 "spiciness", "bitterness", "confidence")}
+        self.assertEqual(_validate(full)["protein"], "unknown")
+        self.assertEqual(_validate({**full, "protein": "dragon"})["protein"], "unknown")
 
     def test_unknown_backend(self):
         with self.assertRaises(ValueError):
